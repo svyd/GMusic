@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.music.ui.AllSongsView android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <LinearLayout android:id="@id/content" android:background="@drawable/card_bg_play" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="@dimen/normal_list_item_height">
+            <com.google.android.music.AsyncAlbumArtImageView android:id="@id/album_art" android:layout_width="@dimen/normal_list_item_height" android:layout_height="@dimen/normal_list_item_height" android:scaleType="fitXY" android:layout_alignParentLeft="true" music:makeSquare="true" />
+            <LinearLayout android:orientation="vertical" android:id="@id/title_wrapper" android:padding="@dimen/default_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/album_art" android:layout_centerVertical="true">
+                <TextView android:id="@id/line1" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/PlayCardTitle" />
+                <TextView android:textAppearance="@style/TertiaryTitle" android:id="@id/line2" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <View android:background="@drawable/orange_highlight" android:paddingLeft="4.0dip" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </RelativeLayout>
+    </LinearLayout>
+</com.google.android.music.ui.AllSongsView>

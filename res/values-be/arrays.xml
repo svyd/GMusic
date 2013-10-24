@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 тыдзень</item>
+        <item>2 тыдні</item>
+        <item>3 тыдні</item>
+        <item>4 тыдні</item>
+        <item>5 тыдняў</item>
+        <item>6 тыдняў</item>
+        <item>7 тыдняў</item>
+        <item>8 тыдняў</item>
+        <item>9 тыдняў</item>
+        <item>10 тыдняў</item>
+        <item>11 тыдняў</item>
+        <item>12 тыдняў</item>
+    </string-array>
+</resources>

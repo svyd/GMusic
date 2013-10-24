@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Valige Musicu jaoks konto</string>
+    <string name="no_music_upload_body">"Muusika saamiseks peab konto olema seadistatud.
+Muusikakogu sünkroonimiseks minge arvutis aadressile http://music.google.com/."</string>
+    <string name="no_music_usb_copy_body">Kasutage USB-kaablit ja esitage muusikat teleris.</string>
+</resources>

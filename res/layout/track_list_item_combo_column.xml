@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/second_column_icon" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <ImageView android:layout_gravity="center" android:id="@id/list_context_menu" android:paddingRight="@dimen/default_padding" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/play_overflow_menu" android:scaleType="centerInside" />
+    <com.google.android.music.KeepOnViewMedium android:layout_gravity="center" android:id="@id/keeponselector" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerInside" android.clickable="true" />
+</FrameLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>۱ هفته</item>
+        <item>۲ هفته</item>
+        <item>۳ هفته</item>
+        <item>۴ هفته</item>
+        <item>۵ هفته</item>
+        <item>۶ هفته</item>
+        <item>۷ هفته</item>
+        <item>۸ هفته</item>
+        <item>۹ هفته</item>
+        <item>۱۰ هفته</item>
+        <item>۱۱ هفته</item>
+        <item>۱۲ هفته</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ic_radio_create" android:id="@id/new_station" android:orderInCategory="1" android:title="@string/create_new_station_all_caps" app:showAsAction="always|withText" />
+</menu>

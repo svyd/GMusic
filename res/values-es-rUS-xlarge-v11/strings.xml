@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Lista de reproducción nueva</string>
+    <string name="add_to_playlist_title">Agregar a la lista de reproducción nueva</string>
+    <string name="ringtone_menu">Usar como tono de timbre</string>
+    <string name="emptyplaylist">Tocar para reproducir</string>
+    <string name="no_music_heading">Tu biblioteca musical está vacía.</string>
+    <string name="no_music_setup_uploader_body">Agrega tu colección personal a la versión beta de Music y accede a la colección instantáneamente desde cualquier computadora o dispositivo Android conectados.</string>
+    <string name="no_music_setup_usb_body">Conecta tu dispositivo a tu computadora con un cable USB para copiar archivos de música a tu dispositivo. Si tienes una Macintosh, primero descarga de manera gratuita la aplicación de Transferencia de Archivos de Android a tu computadora.</string>
+</resources>

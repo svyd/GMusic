@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">नई प्लेलिस्ट</string>
+    <string name="add_to_playlist_title">नई प्‍लेलिस्‍ट में जोड़ें</string>
+    <string name="ringtone_menu">रिंगटोन के रूप में उपयोग करें</string>
+    <string name="emptyplaylist">चलाने के लिए स्‍पर्श करें</string>
+    <string name="no_music_heading">आपकी संगीत लाइब्रेरी रिक्त है</string>
+    <string name="no_music_setup_uploader_body">Music बीटा में अपना निजी संकलन जोड़ें और किसी भी कनेक्ट किए गए कंप्‍यूटर या Android उपकरण से इसमें झटपट पहुंचें.</string>
+    <string name="no_music_setup_usb_body">अपने उपकरण पर संगीत फ़ाइलों की प्रतिलिपि बनाने के लिए USB केबल द्वारा उपकरण को अपने कंप्‍यूटर से कनेक्ट करें. यदि आपके पास Macintosh है, तो पहले अपने कंप्यूटर पर निशुल्क Android फ़ाइल स्थानांतरण एप्लिकेशन डाउनलोड करें.</string>
+    <string name="stream_error_only_on_wifi">आपको संगीत स्‍ट्रीम करने के लिए किसी Wi-Fi नेटवर्क से कनेक्‍ट होना आवश्यक है</string>
+    <string name="stream_error_no_connection">आप संगीत स्‍ट्रीम नहीं कर सकते क्योंकि आप किसी डेटा नेटवर्क से कनेक्‍ट नहीं हैं.</string>
+</resources>

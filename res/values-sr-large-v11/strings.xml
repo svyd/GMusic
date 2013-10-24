@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Нова плејлиста</string>
+    <string name="add_to_playlist_title">Додавање на нову плејлисту</string>
+    <string name="ringtone_menu">Користи као мелодију звона</string>
+    <string name="emptyplaylist">Додирните да бисте пустили</string>
+    <string name="no_music_heading">Музичка библиотека је празна</string>
+    <string name="no_music_setup_uploader_body">Додајте личну колекцију у Музику Beta и приступајте јој истог тренутка са било ког повезаног рачунара или Android уређаја.</string>
+    <string name="no_music_setup_usb_body">Повежите уређај са рачунаром помоћу USB кабла да бисте копирали музичке датотеке на уређај. Уколико имате Macintosh, најпре преузмите бесплатну апликацију Android File Transfer на рачунар.</string>
+    <string name="stream_error_only_on_wifi">Потребно је да будете повезани са Wi-Fi мрежом да бисте стримовали музику</string>
+    <string name="stream_error_no_connection">Не можете да стримујете музику јер нисте повезани са мрежом за пренос података.</string>
+</resources>

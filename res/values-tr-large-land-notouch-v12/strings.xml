@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Müzik için hesap seçin</string>
+    <string name="no_music_upload_body">"Müziğinizi buraya almak için hesabınızın yapılandırılması gerekiyor.
+Müzik kitaplığınızı senkronize etmek için lütfen PC'nizde  http://music.google.com/ adresine gidin."</string>
+    <string name="no_music_usb_copy_body">"USB kablosu kullanarak TV'nizde müzik dinleyin."</string>
+</resources>

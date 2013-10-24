@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_list_item_height">62.5dip</dimen>
+    <dimen name="popup_menu_item_text_size">18.0sp</dimen>
+    <dimen name="list_menu_item_height">48.0dip</dimen>
+    <dimen name="tutorial_padding_top">82.0dip</dimen>
+    <dimen name="tutorial_padding_bottom">96.0dip</dimen>
+    <dimen name="home_icon_size">48.0dip</dimen>
+    <dimen name="home_plus_back_width">59.0dip</dimen>
+    <dimen name="notification_padding">16.0dip</dimen>
+    <dimen name="tutorial_padding_left">64.0dip</dimen>
+    <dimen name="tutorial_padding_right">64.0dip</dimen>
+</resources>

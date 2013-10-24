@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Danh sách phát mới</string>
+    <string name="add_to_playlist_title">Thêm vào danh sách phát mới</string>
+    <string name="ringtone_menu">Sử dụng làm nhạc chuông</string>
+    <string name="emptyplaylist">Chạm để phát</string>
+    <string name="no_music_heading">Thư viện âm nhạc của bạn trống</string>
+    <string name="no_music_setup_uploader_body">Thêm bộ sưu tập cá nhân của bạn vào Music Beta và truy cập ngay tức thì vào bộ sưu tập đó từ bất kỳ máy tính hoặc điện thoại Android nào được kết nối.</string>
+    <string name="no_music_setup_usb_body">Kết nối thiết bị của bạn với máy tính bằng cáp USB để sao chép các tệp âm nhạc vào thiết bị của bạn. Nếu bạn sử dụng Macintosh, đầu tiên hãy tải xuống ứng dụng Truyền tệp của Android miễn phí về máy tính của mình.</string>
+    <string name="stream_error_only_on_wifi">Bạn phải được kết nối với mạng Wi-Fi để truyền nhạc trực tuyến</string>
+    <string name="stream_error_no_connection">Bạn không thể truyền nhạc trực tuyến vì bạn chưa kết nối với mạng dữ liệu.</string>
+</resources>

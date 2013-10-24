@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/bg_signup_phone" android:scaleType="centerCrop" />
+    <LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <TextView android:textAppearance="@style/SignUpTitle" android:id="@id/heading_text" android:padding="@dimen/sign_up_padding_medium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tutorial_try_nautilus_heading" />
+        <ListView android:id="@id/try_naulitus_list" android:layout_width="fill_parent" android:layout_height="150.0dip" android:listSelector="@*android:color/transparent" android:cacheColorHint="@*android:color/transparent" android:divider="@null" />
+        <View android:background="@color/signup_divider_background" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_margin="@dimen/sign_up_padding_small" />
+        <TextView android:textSize="@dimen/sign_up_text_size_small" android:textColor="@color/signup_footer_text" android:id="@id/description_text" android:paddingLeft="@dimen/sign_up_padding_medium" android:paddingRight="@dimen/sign_up_padding_medium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingMultiplier="1.5" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="@dimen/sign_up_padding_small" android:paddingBottom="@dimen/sign_up_padding_medium" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/skip_nautilus_button" android:layout_width="0.0dip" android:layout_height="@dimen/sign_up_button_height" android:layout_marginLeft="@dimen/sign_up_padding_medium" android:layout_marginRight="@dimen/sign_up_padding_small" android:text="@string/tutorial_skip_nautilus" android:layout_weight="1.0" style="@style/TutorialButtonWhite" />
+            <Button android:id="@id/try_nautilus_button" android:layout_width="0.0dip" android:layout_height="@dimen/sign_up_button_height" android:layout_marginLeft="@dimen/sign_up_padding_small" android:layout_marginRight="@dimen/sign_up_padding_medium" android:layout_weight="1.0" style="@style/TutorialButtonOrange" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

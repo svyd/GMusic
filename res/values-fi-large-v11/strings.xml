@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Uusi soittolista</string>
+    <string name="add_to_playlist_title">Lisää uuteen soittolistaan</string>
+    <string name="ringtone_menu">Käytä soittoäänenä</string>
+    <string name="emptyplaylist">Kosketa ja toista</string>
+    <string name="no_music_heading">Musiikkikirjastosi on tyhjä</string>
+    <string name="no_music_setup_uploader_body">Lisäämällä musiikkikokoelmasi Music Betaan voit käyttää sitä välittömästi millä tahansa yhdistetyllä tietokoneella tai Android-laitteella.</string>
+    <string name="no_music_setup_usb_body">Kopioi musiikkitiedostot laitteellesi kytkemällä laitteesi tietokoneeseen USB-kaapelilla. Jos sinulla on Macintosh-tietokone, lataa ensin ilmainen Android-tiedostonsiirtosovellus tietokoneellesi.</string>
+    <string name="stream_error_only_on_wifi">Musiikin suoratoisto edellyttää wifi-yhteyttä</string>
+    <string name="stream_error_no_connection">Et voi suoratoistaa musiikkia, koska laite ei ole yhteydessä verkkoon.</string>
+</resources>

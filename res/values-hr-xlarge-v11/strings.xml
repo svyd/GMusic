@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Novi popis za reprodukciju</string>
+    <string name="add_to_playlist_title">Dodaj na novi popis za reprodukciju</string>
+    <string name="ringtone_menu">Upotrijebi kao zvuk zvona</string>
+    <string name="emptyplaylist">Dodirnite za reprodukciju</string>
+    <string name="no_music_heading">Vaša je glazbena biblioteka prazna</string>
+    <string name="no_music_setup_uploader_body">Dodajte svoju osobnu zbirku na Music Beta i pristupite joj u trenu s bilo kojeg povezanog računala ili uređaja Android.</string>
+    <string name="no_music_setup_usb_body">Spojite uređaj s računalom pomoću USB kabela da biste kopirali glazbene datoteke na svoj uređaj. Ako imate Macintosh, prvo preuzmite besplatnu aplikaciju Android File Transfer na računalo.</string>
+</resources>

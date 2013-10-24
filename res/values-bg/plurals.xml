@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d ПЕСНИ</item>
+        <item quantity="one">1 ПЕСЕН</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d песни</item>
+        <item quantity="one">1 песен</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d АЛБУМА</item>
+        <item quantity="one">1 АЛБУМ</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d албума</item>
+        <item quantity="one">1 албум</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d песни</item>
+        <item quantity="one">1 песен</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d албума</item>
+        <item quantity="one">1 албум</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d песни са добавени в/ъв „%2$s“.</item>
+        <item quantity="one">1 песен е добавена в/ъв „%2$s“.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d песни бяха добавени в библиотеката.</item>
+        <item quantity="one">1 песен бе добавена в библиотеката.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Добавени са само %1$d песни. Макс. за опашката е %2$d.</item>
+        <item quantity="one">Добавена е само 1 песен. Макс. за опашката е %2$d.</item>
+    </plurals>
+</resources>

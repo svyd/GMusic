@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">รายการเพลงใหม่</string>
+    <string name="add_to_playlist_title">เพิ่มในรายการเพลงใหม่</string>
+    <string name="ringtone_menu">ใช้เป็นเสียงเรียกเข้า</string>
+    <string name="emptyplaylist">แตะเพื่อเล่น</string>
+    <string name="no_music_heading">ห้องสมุดดนตรีของคุณว่างเปล่า</string>
+    <string name="no_music_setup_uploader_body">เพิ่มคอลเล็กชันเพลงของคุณลงใน Music รุ่นเบต้าและเข้าถึงเพลงได้ทันทีจากคอมพิวเตอร์หรืออุปกรณ์ Android ใดๆ ที่มีการเชื่อมต่อ</string>
+    <string name="no_music_setup_usb_body">เชื่อมต่ออุปกรณ์ของคุณเข้ากับคอมพิวเตอร์ด้วยสาย USB เพื่อคัดลอกไฟล์เพลงไปยังอุปกรณ์ของคุณ หากคุณมีคอมพิวเตอร์ Macintosh ให้ดาวน์โหลดแอปพลิเคชัน Android File Transfer ลงในคอมพิวเตอร์ของคุณก่อน โดยไม่เสียค่าใช้จ่ายใด</string>
+    <string name="stream_error_only_on_wifi">คุณต้องเชื่อมต่อกับเครือข่าย Wi-Fi เพื่อสตรีมเพลง</string>
+    <string name="stream_error_no_connection">คุณไม่สามารถสตรีมเพลงได้เนื่องจากคุณไม่ได้เชื่อมต่อเครือข่ายข้อมูล</string>
+</resources>

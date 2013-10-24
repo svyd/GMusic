@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">"Kies 'n rekening vir Music"</string>
+    <string name="no_music_upload_body">"Jou rekening moet opgestel word om jou musiek hier te kry.
+Gaan na http://music.google.com/ op jou rekenaar om jou musiekbiblioteek te sinkroniseer."</string>
+    <string name="no_music_usb_copy_body">Speel musiek op jou TV via USB-kabel.</string>
+</resources>

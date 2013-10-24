@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 setmana</item>
+        <item>2 setmanes</item>
+        <item>3 setmanes</item>
+        <item>4 setmanes</item>
+        <item>5 setmanes</item>
+        <item>6 setmanes</item>
+        <item>7 setmanes</item>
+        <item>8 setmanes</item>
+        <item>9 setmanes</item>
+        <item>10 setmanes</item>
+        <item>11 setmanes</item>
+        <item>12 setmanes</item>
+    </string-array>
+</resources>

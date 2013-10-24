@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.music.ringtone.WaveformView android:id="@id/waveform" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.google.android.music.ringtone.MarkerView android:id="@id/start_handle" android:nextFocusDown="@id/resize_handle" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/handle_start" android:scaleType="fitXY" android:contentDescription="@string/start_handle" />
+    <com.google.android.music.ringtone.MarkerView android:id="@id/resize_handle" android:nextFocusUp="@id/start_handle" android:nextFocusDown="@id/info" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/handle_resize" android:scaleType="fitXY" android:contentDescription="@string/resize_handle" />
+</AbsoluteLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d آهنگ</item>
+        <item quantity="one">1 آهنگ</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d آهنگ</item>
+        <item quantity="one">1 آهنگ</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d آلبوم</item>
+        <item quantity="one">1 آلبوم</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d آلبوم</item>
+        <item quantity="one">1 آلبوم</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d آهنگ</item>
+        <item quantity="one">1 آهنگ</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d آلبوم</item>
+        <item quantity="one">1 آلبوم</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$dآهنگ به %2$sاضافه شد.</item>
+        <item quantity="one">1 آهنگ به %2$s اضافه شد.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d آهنگ به کتابخانه اضافه شد.</item>
+        <item quantity="one">۱ آهنگ به کتابخانه اضافه شد.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">تنها %1$d آهنگ اضافه شد. حداکثر لیست،%2$d آهنگ است.</item>
+        <item quantity="one">فقط ۱ آهنگ اضافه شد. حداکثر لیست،%2$d آهنگ است.</item>
+    </plurals>
+</resources>

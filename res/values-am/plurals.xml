@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d ዘፈኖች</item>
+        <item quantity="one">1 ዘፈን</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$dዘፈኖች</item>
+        <item quantity="one">1 ዘፈን</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$dአልበሞች፡</item>
+        <item quantity="one">1 አልበም</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$dአልበሞች</item>
+        <item quantity="one">1 አልበም</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$dዘፈኖች</item>
+        <item quantity="one">1 ዘፈን</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$dአልበሞች፡</item>
+        <item quantity="one">1 አልበም</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$dዘፈኖች ወደ %2$sታክለዋል።</item>
+        <item quantity="one">1 ዘፈን ወደ %2$s ታክሏል።</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d ዘፈኖች ወደ ቤተ-መጽሐፍቱ ታከለዋል።</item>
+        <item quantity="one">1 ዘፈን ወደ ቤተ-መጽሐፍቱ ታክሏል።</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">%1$d ዘፈኖች ብቻ ታክለዋል። የወረፋ ከፍተኛ መጠን %2$d ዘፈኖች ነው።</item>
+        <item quantity="one">1 ዘፈን ብቻ ነው የታከልው። ከፍተኛ የወረፋ መጠን %2$d ዘፈኖች ነው።</item>
+    </plurals>
+</resources>

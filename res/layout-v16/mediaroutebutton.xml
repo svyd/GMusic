@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.app.MediaRouteButton android:id="@id/audio_output_picker"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

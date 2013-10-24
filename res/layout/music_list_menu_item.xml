@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.music.menu.MusicListMenuItemView android:ellipsize="marquee" android:gravity="center_vertical" android:background="@drawable/menuitem_background" android:focusable="true" android:fadingEdge="horizontal" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/list_menu_item_height" android:singleLine="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/left_icon" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/title" android:fadingEdge="horizontal" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:singleLine="true" android:layout_toRightOf="@id/left_icon" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/right_icon" android:visibility="gone" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:src="@drawable/btn_small_radio_off" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</com.google.android.music.menu.MusicListMenuItemView>

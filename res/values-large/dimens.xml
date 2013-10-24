@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_list_item_height">80.0dip</dimen>
+    <dimen name="edit_list_item_height">82.0dip</dimen>
+    <dimen name="top_bar_height">56.0dip</dimen>
+    <dimen name="tab_header_text_size">14.0sp</dimen>
+    <dimen name="tab_strip_height">30.0dip</dimen>
+    <dimen name="tab_strip_clickable_width">160.0dip</dimen>
+    <dimen name="container_artist_art_height">300.0dip</dimen>
+    <dimen name="container_labels_block_height">132.0dip</dimen>
+    <item type="dimen" name="container_labels_block_padding">@dimen/default_padding_large</item>
+    <dimen name="container_album_art_xy">220.0dip</dimen>
+    <dimen name="container_playlist_owner_photo_size">42.0dip</dimen>
+    <dimen name="nowplaying_button_size">64.0dip</dimen>
+    <dimen name="nowplaying_lower_bar_height">96.0dip</dimen>
+    <dimen name="youtube_image_width">160.0dip</dimen>
+    <dimen name="youtube_image_height">120.0dip</dimen>
+    <dimen name="radio_creation_dialog_padding">30.0dip</dimen>
+    <dimen name="play_cluster_header_title_size">28.0sp</dimen>
+    <dimen name="abc_config_prefDialogWidth">440.0dip</dimen>
+    <dimen name="abc_search_view_text_min_width">192.0dip</dimen>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d SONGS</item>
+        <item quantity="one">1 SONG</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d songs</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUMS</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d songs</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d songs added to %2$s.</item>
+        <item quantity="one">1 song added to %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d songs added to the library.</item>
+        <item quantity="one">1 song added to the library.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Only %1$d songs added. Queue max is %2$d songs.</item>
+        <item quantity="one">Only 1 song added. Queue max is %2$d songs.</item>
+    </plurals>
+</resources>

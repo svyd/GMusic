@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Nový seznam skladeb</string>
+    <string name="add_to_playlist_title">Přidat do nového seznamu skladeb</string>
+    <string name="ringtone_menu">Použít jako vyzváněcí tón</string>
+    <string name="emptyplaylist">Přehrávání spustíte dotykem</string>
+    <string name="no_music_heading">Vaše hudební knihovna je prázdná</string>
+    <string name="no_music_setup_uploader_body">Přidejte svou sbírku do služby Music Beta a budete k ní mít okamžitý přístup z jakéhokoli počítače nebo zařízení Android připojeného k internetu.</string>
+    <string name="no_music_setup_usb_body">Připojte zařízení k počítači pomocí kabelu USB a zkopírujte hudební soubory do svého zařízení. Pokud používáte počítač Macintosh, stáhněte si nejdříve bezplatnou aplikaci Android File Transfer.</string>
+    <string name="stream_error_only_on_wifi">Chcete-li streamovat hudbu, musíte být připojeni k síti Wi-Fi</string>
+    <string name="stream_error_no_connection">Nemůžete streamovat hudbu, protože nejste připojeni k datové síti.</string>
+</resources>

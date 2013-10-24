@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Naujas grojaraštis</string>
+    <string name="add_to_playlist_title">Pridėti prie naujo grojaraščio</string>
+    <string name="ringtone_menu">Naudoti kaip skambėjimo toną</string>
+    <string name="emptyplaylist">Jei norite paleisti, palieskite</string>
+    <string name="no_music_heading">Jūsų muzikos biblioteka tuščia</string>
+    <string name="no_music_setup_uploader_body">Pridėkite asmeninę kolekciją prie Muzikos beta versijos ir greitai ją pasiekite iš bet kurio prijungto kompiuterio ar „Android“ įrenginio.</string>
+    <string name="no_music_setup_usb_body">Jei norite kopijuoti muziką į įrenginį, prijunkite jį prie kompiuterio, naudodami USB laidą. Jei naudojate „Macintosh“, iš pradžių atsisiųskite į savo kompiuterį nemokamą programą „Android File Transfer“.</string>
+    <string name="stream_error_only_on_wifi">Jei norite srautiniu būdu perduoti muziką, turite būti prisijungę prie „Wi-Fi“ tinklo</string>
+    <string name="stream_error_no_connection">Negalite srautiniu būdu perduoti muzikos, nes nesate prisijungę prie duomenų tinklo.</string>
+</resources>

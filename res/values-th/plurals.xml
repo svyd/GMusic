@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d เพลง</item>
+        <item quantity="one">1 เพลง</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d เพลง</item>
+        <item quantity="one">1 เพลง</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d อัลบั้ม</item>
+        <item quantity="one">1 อัลบั้ม</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d อัลบั้ม</item>
+        <item quantity="one">1 อัลบั้ม</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d เพลง</item>
+        <item quantity="one">1 เพลง</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d อัลบั้ม</item>
+        <item quantity="one">1 อัลบั้ม</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">เพิ่ม %1$d เพลงลงใน %2$s</item>
+        <item quantity="one">เพิ่ม 1 เพลงลงใน %2$s</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">เพิ่ม %d เพลงลงในห้องสมุดดนตรี</item>
+        <item quantity="one">เพิ่ม 1 เพลงลงในห้องสมุดดนตรี</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">เพิ่มเพียง %1$d เพลงเท่านั้น เพิ่มได้สูงสุด %2$d เพลง</item>
+        <item quantity="one">เพิ่มเพียง 1 เพลงเท่านั้น เพิ่มได้สูงสุด %2$d เพลง</item>
+    </plurals>
+</resources>

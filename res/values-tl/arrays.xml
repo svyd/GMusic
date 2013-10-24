@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 linggo</item>
+        <item>2 linggo</item>
+        <item>3 linggo</item>
+        <item>4 linggo</item>
+        <item>5 linggo</item>
+        <item>6 linggo</item>
+        <item>7 linggo</item>
+        <item>8 linggo</item>
+        <item>9 linggo</item>
+        <item>10 linggo</item>
+        <item>11 linggo</item>
+        <item>12 linggo</item>
+    </string-array>
+</resources>

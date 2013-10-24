@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Khetha i-akhawunti yoMculo:</string>
+    <string name="no_music_upload_body">"I-akhawunti yakho idinga ukulungiswa ukuze uthole umculo lapha.
+Sicela uye ku http://music.google.com/ ku-PC yakho ukuze uvumelanise ilabhulali yakho yomculo."</string>
+    <string name="no_music_usb_copy_body">Dlala umculo ku-TV yakho usebenzisa intambo ye-USB.</string>
+</resources>

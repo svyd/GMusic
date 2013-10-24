@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>iviki elingu-1</item>
+        <item>amaviki angu-2</item>
+        <item>amaviki angu-3</item>
+        <item>amaviki angu-4</item>
+        <item>amaviki angu-5</item>
+        <item>amaviki angu-6</item>
+        <item>amaviki angu-7</item>
+        <item>amaviki angu-8</item>
+        <item>amaviki angu-9</item>
+        <item>amaviki angu-10</item>
+        <item>amaviki angu-11</item>
+        <item>amaviki angu-12</item>
+    </string-array>
+</resources>

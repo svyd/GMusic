@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">新播放列表</string>
+    <string name="add_to_playlist_title">添加到新播放列表</string>
+    <string name="ringtone_menu">用作铃声</string>
+    <string name="emptyplaylist">触摸即可播放</string>
+    <string name="no_music_heading">您的音乐库是空的</string>
+    <string name="no_music_setup_uploader_body">将您个人收藏的音乐添加到“音乐”测试版后，您就可以通过任何联网的计算机或 Android 设备即时访问这些音乐了。</string>
+    <string name="no_music_setup_usb_body">使用 USB 线连接您的设备与计算机，以便将音乐文件复制到您的设备中。如果您使用的是苹果机，请先将免费的“Android 文件传输”应用下载到计算机上。</string>
+    <string name="stream_error_only_on_wifi">您必须连接到 Wi-Fi 网络才能流式传输音乐</string>
+    <string name="stream_error_no_connection">由于您未连接到数据网络，因此无法流式传输音乐。</string>
+</resources>

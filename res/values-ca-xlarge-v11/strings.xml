@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Llista de reproducció nova</string>
+    <string name="add_to_playlist_title">Addició a una llista de reproducció nova</string>
+    <string name="ringtone_menu">Utilitza com a to</string>
+    <string name="emptyplaylist">Toca per reproduir</string>
+    <string name="no_music_heading">La teva biblioteca de música està buida</string>
+    <string name="no_music_setup_uploader_body">"Afegeix la teva col·lecció personal a Music Beta i accedeix-hi a l'instant des de qualsevol equip o dispositiu Android connectat."</string>
+    <string name="no_music_setup_usb_body">"Connecta el dispositiu al teu equip amb un cable USB per copiar fitxers de música al dispositiu. Si tens un Macintosh, baixa primer l'aplicació gratuïta Android File Transfer al teu equip."</string>
+</resources>

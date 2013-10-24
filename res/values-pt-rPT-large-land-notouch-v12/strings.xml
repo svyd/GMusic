@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Selecione uma conta para o Google Música</string>
+    <string name="no_music_upload_body">"A sua conta precisa de ser configurada para obter a sua música aqui. 
+ Aceda a http://music.google.com/ no seu PC para sincronizar a sua biblioteca de música."</string>
+    <string name="no_music_usb_copy_body">Reproduza música na sua TV utilizando um cabo USB.</string>
+</resources>

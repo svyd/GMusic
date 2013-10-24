@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Nowa playlista</string>
+    <string name="add_to_playlist_title">Dodaj do nowej playlisty</string>
+    <string name="ringtone_menu">Ustaw jako dzwonek</string>
+    <string name="emptyplaylist">Dotknij, aby odtworzyć</string>
+    <string name="no_music_heading">Twoja biblioteka muzyki jest pusta</string>
+    <string name="no_music_setup_uploader_body">Dodaj osobistą kolekcję do Muzyki (beta), aby szybko uzyskać do niej dostęp z dowolnego połączonego komputera lub urządzenia z systemem Android.</string>
+    <string name="no_music_setup_usb_body">Podłącz urządzenie do komputera za pomocą kabla USB, aby skopiować pliki muzyczne na urządzenie. Jeśli masz komputer Macintosh, wcześniej pobierz na komputer bezpłatną aplikację Android File Transfer.</string>
+    <string name="stream_error_only_on_wifi">Strumieniowe przesyłanie muzyki wymaga połączenia z siecią Wi-Fi.</string>
+    <string name="stream_error_no_connection">Nie można strumieniowo przesyłać muzyki, ponieważ nie ma połączenia z siecią transmisji danych.</string>
+</resources>

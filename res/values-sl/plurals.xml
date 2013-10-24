@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d SKLADB</item>
+        <item quantity="one">1 PESEM</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">Št. skladb: %1$d</item>
+        <item quantity="one">1 skladba</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUMOV</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">Št. albumov: %1$d</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">št. skladb: %1$d</item>
+        <item quantity="one">1 skladba</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">št. alb.: %1$d</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Št. pesmi, dodanih na seznam %2$s: %1$d.</item>
+        <item quantity="one">1 pesem dodana na seznam %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Št. skladb, dodanih v knjižnico: %d.</item>
+        <item quantity="one">1 skladba dodana v knjižnico.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Dodanih skladb: %1$d. V čakalni vrsti jih je lahko %2$d.</item>
+        <item quantity="one">Dodana le 1 skladba. V čakalni vrsti jih je lahko %2$d.</item>
+    </plurals>
+</resources>

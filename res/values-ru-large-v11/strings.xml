@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Новый плейлист</string>
+    <string name="add_to_playlist_title">Добавить в новый плейлист</string>
+    <string name="ringtone_menu">Использовать как мелодию звонка</string>
+    <string name="emptyplaylist">Нажмите, чтобы воспроизвести</string>
+    <string name="no_music_heading">В вашей музыкальной библиотеке нет записей</string>
+    <string name="no_music_setup_uploader_body">Добавьте свои треки в службу \"Google Музыка\" (бета) и слушайте их на любом компьютере или устройстве Android, подключенном к Интернету.</string>
+    <string name="no_music_setup_usb_body">Подключите устройство к компьютеру с помощью USB-кабеля и скопируйте треки на устройство. Для работы с Macintosh предварительно загрузите на компьютер бесплатное приложение Android File Transfer.</string>
+    <string name="stream_error_only_on_wifi">Чтобы прослушивать музыку, вы должны быть подключены к сети Wi-Fi</string>
+    <string name="stream_error_no_connection">Вы не можете передавать музыку, так как не подключены к сети передачи данных.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@id/manage_download" android:orderInCategory="1" android:title="@string/pause_download_all_caps" app:showAsAction="always|withText" />
+</menu>

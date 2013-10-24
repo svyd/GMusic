@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Välj ett konto för Musik</string>
+    <string name="no_music_upload_body">"Du måste göra vissa inställningar i ditt konto för att musiken ska hamna här.
+Besök http://music.google.com/ på datorn om du vill synkronisera ditt musikbibliotek."</string>
+    <string name="no_music_usb_copy_body">Spela musik genom din TV med hjälp av en USB-kabel.</string>
+</resources>

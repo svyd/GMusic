@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.music.menu.MusicListMenuView android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/music_menu" android:layout_width="@dimen/popup_menu_width" android:layout_height="wrap_content" android:rowHeight="@dimen/list_menu_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/header_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:layout_marginBottom="2.0dip">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/popup_menu_item_text_size" android:textStyle="bold" android:textColor="@color/menu_text_color" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/title" android:paddingRight="10.0dip" android:fadingEdge="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginTop="0.0dip" android:layout_marginBottom="13.0dip" android:singleLine="true" android:layout_toLeftOf="@id/close_icon" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <ImageView android:gravity="center_vertical" android:id="@id/close_icon" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:src="@drawable/btn_small_close_context" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <ScrollView android:id="@id/music_menu_scroll_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/music_menu_list" android:layout_width="fill_parent" android:layout_height="wrap_content"
+          xmlns:android="http://schemas.android.com/apk/res/android" />
+    </ScrollView>
+</com.google.android.music.menu.MusicListMenuView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_bar_height">44.0dip</dimen>
+    <dimen name="now_playing_time_width">48.0dip</dimen>
+    <dimen name="widget_np_small_min_height">72.0dip</dimen>
+    <dimen name="widget_np_small_album_art_size">32.0dip</dimen>
+    <dimen name="widget_np_small_button_size">32.0dip</dimen>
+    <dimen name="widget_np_small_text_padding_top">1.0dip</dimen>
+    <dimen name="abc_action_bar_default_height">40.0dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">4.0dip</dimen>
+    <dimen name="abc_action_bar_title_text_size">16.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">12.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-2.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">4.0dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32.0dip</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:background="@drawable/notify_panel_notification_icon_bg_tile" android:layout_width="@*android:dimen/notification_large_icon_width" android:layout_height="@*android:dimen/notification_large_icon_width" android:src="@drawable/stat_notify_manage" android:scaleType="center" />
+    <TextView android:id="@id/status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/notification_padding" android:layout_marginTop="10.0dip" android:text="@string/notification_downloading_offline_music" android:singleLine="true" android:layout_toRightOf="@id/icon" android:layout_alignParentTop="true" style="@android:style/TextAppearance.StatusBar.EventContent.Title" />
+    <TextView android:id="@id/progress_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/notification_padding" android:layout_toRightOf="@id/icon" android:layout_below="@id/status" android:alpha="0.7" style="@android:style/TextAppearance.StatusBar.EventContent" />
+    <FrameLayout android:layout_gravity="fill" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="10.0dip" android:layout_toRightOf="@id/progress_text" android:layout_below="@id/status" android:layout_alignTop="@id/progress_text" android:layout_alignParentRight="true">
+        <ProgressBar android:layout_gravity="center" android:id="@id/progressbar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:max="100" style="?android:attr/progressBarStyleHorizontal" />
+    </FrameLayout>
+</RelativeLayout>

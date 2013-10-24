@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Danh sách nhạc mới</string>
+    <string name="add_to_playlist_title">Thêm vào danh sách nhạc mới</string>
+    <string name="ringtone_menu">Sử dụng làm nhạc chuông</string>
+    <string name="emptyplaylist">Chạm để phát</string>
+    <string name="no_music_heading">Thư viện âm nhạc của bạn trống</string>
+    <string name="no_music_setup_uploader_body">Thêm bộ sưu tập cá nhân của bạn vào Music Beta và truy cập ngay tức thì vào bộ sưu tập đó từ bất kỳ máy tính hoặc điện thoại Android được kết nối nào.</string>
+    <string name="no_music_setup_usb_body">Kết nối thiết bị của bạn với máy tính bằng cáp USB để sao chép các tệp âm nhạc vào thiết bị của bạn. Nếu bạn sử dụng Macintosh, đầu tiên hãy tải xuống ứng dụng Truyền tệp của Android miễn phí về máy tính của mình.</string>
+</resources>

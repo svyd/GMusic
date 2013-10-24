@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Valitse Musicissa käytettävä tili</string>
+    <string name="no_music_upload_body">"Tilisi täytyy määrittää, jotta voit hankkia musiikkia täältä.
+Siirry tietokoneellasi osoitteeseen http://music.google.com/ ja synkronoi musiikkikirjastosi."</string>
+    <string name="no_music_usb_copy_body">Toista musiikkia televisiossasi USB-kaapelin kautta.</string>
+</resources>

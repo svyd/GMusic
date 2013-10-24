@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/repeat" android:focusable="true" android:visibility="gone" android:layout_width="@dimen/nowplaying_button_size" android:layout_height="@dimen/nowplaying_button_size" android:layout_marginLeft="@dimen/nowplaying_button_margin" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="@string/accessibility_repeat" />
+    <ImageView android:id="@id/shuffle" android:focusable="true" android:visibility="gone" android:layout_width="@dimen/nowplaying_button_size" android:layout_height="@dimen/nowplaying_button_size" android:layout_marginRight="@dimen/nowplaying_button_margin" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/accessibility_shuffle" />
+    <com.google.android.music.PlayPauseButton android:id="@id/pause" android:focusable="true" android:layout_width="@dimen/nowplaying_button_size" android:layout_height="@dimen/nowplaying_button_size" android:layout_marginLeft="@dimen/nowplaying_button_margin" android:layout_marginRight="@dimen/nowplaying_button_margin" android:layout_centerInParent="true" style="@style/PlaybackControl.Play.Light" />
+    <com.google.android.music.RepeatingImageButton android:id="@id/prev" android:focusable="true" android:layout_width="@dimen/nowplaying_button_size" android:layout_height="@dimen/nowplaying_button_size" android:layout_toLeftOf="@id/pause" android:layout_centerVertical="true" style="@style/PlaybackControl.Previous.Light" />
+    <com.google.android.music.RepeatingImageButton android:id="@id/next" android:focusable="true" android:layout_width="@dimen/nowplaying_button_size" android:layout_height="@dimen/nowplaying_button_size" android:layout_toRightOf="@id/pause" android:layout_centerVertical="true" style="@style/PlaybackControl.Next.Light" />
+</merge>

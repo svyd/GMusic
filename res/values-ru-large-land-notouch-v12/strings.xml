@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Выберите аккаунт для Google Музыки</string>
+    <string name="no_music_upload_body">"Чтобы добавить музыку, настройте аккаунт.
+Откройте в веб-браузере сайт http://music.google.com/ и синхронизируйте свою фонотеку."</string>
+    <string name="no_music_usb_copy_body">Слушайте музыку, подключив устройство к телевизору с помощью USB-кабеля.</string>
+</resources>

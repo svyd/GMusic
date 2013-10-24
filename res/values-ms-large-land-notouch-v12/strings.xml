@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Pilih akaun untuk Muzik</string>
+    <string name="no_music_upload_body">"Akaun anda perlu dikonfigurasikan untuk membawa muzik anda ke sini.
+Sila pergi ke http://music.google.com/ pada PC anda untuk menyegerakkan perpustakaan muzik anda ."</string>
+    <string name="no_music_usb_copy_body">Mainkan muzik pada TV anda menggunakan kabel USB.</string>
+</resources>

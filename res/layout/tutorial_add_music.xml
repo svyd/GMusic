@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/bg_signup_phone" android:scaleType="centerCrop" />
+    <LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <TextView android:textAppearance="@style/SignUpTitle" android:id="@id/heading_text" android:padding="@dimen/sign_up_padding_medium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tutorial_add_music_heading" />
+        <ListView android:id="@id/add_music_list" android:layout_width="fill_parent" android:layout_height="0.0dip" android:listSelector="@*android:color/transparent" android:cacheColorHint="@*android:color/transparent" android:divider="@null" android:layout_weight="1.0" />
+        <Button android:id="@id/done_button" android:layout_width="fill_parent" android:layout_height="@dimen/sign_up_button_height" android:layout_marginLeft="@dimen/sign_up_padding_medium" android:layout_marginRight="@dimen/sign_up_padding_medium" android:layout_marginBottom="@dimen/sign_up_padding_medium" android:text="@string/tutorial_done" style="@style/TutorialButtonOrange" />
+    </LinearLayout>
+</RelativeLayout>

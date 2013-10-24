@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appwidget_text">#ffffffff</color>
+    <color name="appwidget_text_primary">#ffffffff</color>
+    <color name="appwidget_text_secondary">#ff999999</color>
+    <color name="appwidget_separator">#33ffffff</color>
+    <color name="action_bar_selected_bg">#9933b5e5</color>
+    <color name="unavailable_artwork_overlay">#80000000</color>
+    <color name="dim_foreground_dark">#ffbebebe</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="dim_foreground_dark_inverse">#ff323232</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="transparent">#00000000</color>
+    <color name="search_list_header_background">#20808080</color>
+    <color name="tutorial_bottom_bar_background">#ff808080</color>
+    <color name="tabbed_now_playing_tab_color">#3f000000</color>
+    <color name="tabbed_now_playing_controls_bg_color">#bf000000</color>
+    <color name="no_waveform_bg">#ff555555</color>
+    <color name="waveform_selected">#ff8dffff</color>
+    <color name="waveform_unselected">#ff106072</color>
+    <color name="waveform_unselected_bkgnd_overlay">#ff005050</color>
+    <color name="playback_indicator">#ffffff66</color>
+    <color name="grid_line">#ff01a9a9</color>
+    <color name="timecode">#ffdddddd</color>
+    <color name="yellow_cover">#88888833</color>
+    <color name="yellow">#ddffff00</color>
+    <color name="yellow_light">#88ffff00</color>
+    <color name="divider_color">#26000000</color>
+    <item type="color" name="download_arc_color">@color/app_color</item>
+    <item type="color" name="download_arc_color_paused">@color/grey</item>
+    <color name="app_color">#fff98022</color>
+    <color name="app_color_accented">#ffcf6d1a</color>
+    <color name="app_color_transparent">#20f4842d</color>
+    <color name="app_background_light">#fffafafa</color>
+    <color name="app_background_light_transparent">#e6fafafa</color>
+    <color name="app_background">#ffe5e5e5</color>
+    <color name="side_drawer_item_current_screen_color">#25000000</color>
+    <color name="side_drawer_item_pressed_color">#99f4842d</color>
+    <color name="pressed_glow_orange">#66f4842d</color>
+    <color name="pressed_glow_white">#66ffffff</color>
+    <color name="nautilus_indicator">#ff888888</color>
+    <color name="shadow_start_color">#55000000</color>
+    <color name="shadow_start_color_dark">#aa000000</color>
+    <color name="artist_art_placeholder_bg">#88000000</color>
+    <item type="color" name="nowplaying_progressbar_progress">@color/app_color</item>
+    <color name="nowplaying_progressbar_secondary_progress">#ffdddddd</color>
+    <color name="nowplaying_progressbar_bg">#ffeeeeee</color>
+    <color name="nowplaying_art_bg">#ff333333</color>
+    <color name="current_text">#ffffffff</color>
+    <item type="color" name="flash_to_when_paused_text">@color/app_color</item>
+    <color name="white">#ffffffff</color>
+    <color name="white_transparent">#ccffffff</color>
+    <color name="grey">#ff999999</color>
+    <color name="disabled_grey">#ffd0d0d0</color>
+    <color name="play_fg_primary">#ff505050</color>
+    <color name="play_fg_secondary">#ffb5b5b5</color>
+    <color name="play_tab_strip_bottom">#26000000</color>
+    <color name="play_tab_strip_side">#19000000</color>
+    <color name="play_reason_separator">#19000000</color>
+    <color name="play_translucent_separator_line">#23000000</color>
+    <color name="tutorial_title">#ff333333</color>
+    <color name="tutorial_body">#ff888888</color>
+    <item type="color" name="tutorial_bullet_item">@color/tutorial_body</item>
+    <color name="tutorial_action_item">#fff68419</color>
+    <item type="color" name="tutorial_database_updating">@color/white</item>
+    <color name="signup_header_text">#fff4842d</color>
+    <color name="signup_body_text">#ff888888</color>
+    <color name="signup_footer_text">#ff333333</color>
+    <color name="signup_content_background">#eeffffff</color>
+    <color name="signup_divider_background">#22000000</color>
+    <color name="empty_screen_text_color">#ffaaaaaa</color>
+    <color name="empty_screen_learn_more_color">#fff88400</color>
+    <color name="xdi_background">#fff68419</color>
+    <color name="abc_search_url_text_normal">#ff7fa87f</color>
+    <item type="color" name="abc_search_url_text_selected">@*android:color/black</item>
+    <item type="color" name="abc_search_url_text_pressed">@*android:color/black</item>
+</resources>

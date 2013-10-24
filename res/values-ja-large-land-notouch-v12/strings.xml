@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">ミュージックに使用するアカウントを選択してください</string>
+    <string name="no_music_upload_body">"ここで音楽を入手するには、アカウントの設定が必要です。
+パソコンで http://music.google.com/ にアクセスして、音楽ライブラリを同期してください。"</string>
+    <string name="no_music_usb_copy_body">USBケーブルを使用してテレビで音楽を再生します。</string>
+</resources>

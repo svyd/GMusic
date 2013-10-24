@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">"Sélectionnez un compte à utiliser avec l'application Musique."</string>
+    <string name="no_music_upload_body">"Vous devez configurer votre compte pour accéder à votre musique ici.
+Veuillez accéder à http://music.google.com/ sur votre PC pour synchroniser votre bibliothèque musicale."</string>
+    <string name="no_music_usb_copy_body">Écoutez de la musique sur votre téléviseur via un câble USB.</string>
+</resources>

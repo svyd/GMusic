@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:id="@id/ratingThumbs" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/thumbsup" android:focusable="true" android:nextFocusLeft="@id/next" android:nextFocusRight="@id/thumbsdown" android:layout_width="@dimen/nowplaying_button_size" android:layout_height="@dimen/nowplaying_button_size" android:layout_marginRight="@dimen/nowplaying_button_margin" android:scaleType="fitCenter" android:contentDescription="@string/accessibility_thumbsUp" />
+    <ImageView android:id="@id/thumbsdown" android:focusable="true" android:nextFocusLeft="@id/thumbsup" android:layout_width="@dimen/nowplaying_button_size" android:layout_height="@dimen/nowplaying_button_size" android:scaleType="fitCenter" android:contentDescription="@string/accessibility_thumbsDown" />
+</LinearLayout>

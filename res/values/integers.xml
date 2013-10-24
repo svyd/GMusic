@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_activityDefaultDur">220</integer>
+    <integer name="config_activityShortDur">150</integer>
+    <integer name="short_animation_time">300</integer>
+    <integer name="lights_up_user_action_timeout_ms">4000</integer>
+    <integer name="lights_up_timeout_ms">1500</integer>
+    <integer name="grid_screen_columns">2</integer>
+    <integer name="tv_override_grid_screen_columns">4</integer>
+    <integer name="card_row_columns">1</integer>
+    <integer name="mainstage_cluster_rows">1</integer>
+    <integer name="card_nbrow">2</integer>
+    <integer name="card_row_nbrow">5</integer>
+    <integer name="unavailable_card_opacity">40</integer>
+    <integer name="xdi_item_width_dp">128</integer>
+    <integer name="xdi_item_height_dp">128</integer>
+    <integer name="xdi_artist_item_width_dp">128</integer>
+    <integer name="xdi_artist_item_height_dp">64</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+</resources>

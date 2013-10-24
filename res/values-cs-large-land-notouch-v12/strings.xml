@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Vyberte účet pro službu Hudba</string>
+    <string name="no_music_upload_body">"Chcete-li sem nahrát hudbu, je třeba nakonfigurovat účet.
+Chcete-li svou hudební knihovnu synchronizovat, přejděte v počítači na stránku http://music.google.com/."</string>
+    <string name="no_music_usb_copy_body">Hudbu můžete pomocí kabelu USB přehrávat v televizi.</string>
+</resources>

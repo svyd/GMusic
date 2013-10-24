@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>Wiki 1</item>
+        <item>Wiki 2</item>
+        <item>Wiki tatu</item>
+        <item>Wiki 4</item>
+        <item>Wiki 5</item>
+        <item>Wiki 6</item>
+        <item>Wiki 7</item>
+        <item>Wiki 8</item>
+        <item>Wiki 9</item>
+        <item>Wiki 10</item>
+        <item>Wiki 11</item>
+        <item>Wiki 12</item>
+    </string-array>
+</resources>

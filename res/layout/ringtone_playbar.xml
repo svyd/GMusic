@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/rew" android:layout_width="52.0dip" android:layout_height="52.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" style="@style/PlaybackControl.Previous" />
+    <com.google.android.music.PlayPauseButton android:id="@id/play" android:layout_width="52.0dip" android:layout_height="52.0dip" android:layout_marginLeft="10.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="6.0dip" style="@style/PlaybackControl.Play" />
+    <ImageButton android:id="@id/ffwd" android:layout_width="52.0dip" android:layout_height="52.0dip" android:layout_marginTop="6.0dip" android:layout_marginRight="10.0dip" android:layout_marginBottom="6.0dip" style="@style/PlaybackControl.Next" />
+</merge>

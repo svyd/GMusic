@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Ny spellista</string>
+    <string name="add_to_playlist_title">Lägg till i ny spellista</string>
+    <string name="ringtone_menu">Använd som ringsignal</string>
+    <string name="emptyplaylist">Tryck om du vill spela upp</string>
+    <string name="no_music_heading">Musikbiblioteket är tomt</string>
+    <string name="no_music_setup_uploader_body">Lägg till din musiksamling i betaversionen av Musik och nå den från alla anslutna datorer eller Android-enheter.</string>
+    <string name="no_music_setup_usb_body">Anslut enheten till en dator med en USB-kabel om du vill kopiera musikfiler till den. Om du har en Macintosh måste du först hämta det kostnadsfria programmet för filöverföring till Android.</string>
+</resources>

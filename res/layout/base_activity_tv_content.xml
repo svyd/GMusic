@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+        <FrameLayout android:id="@id/drawer_container" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        <View android:layout_gravity="right" android:background="@drawable/drawer_shadow" android:layout_width="@dimen/side_panel_shadow_width" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/main_container" android:paddingTop="?actionBarSize" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/side_panel_negative_shadow_width" android:layout_weight="1.0" />
+    </LinearLayout>
+    <com.google.android.music.widgets.ExpandingScrollView android:id="@id/bottom_drawer" android:background="@color/shadow_start_color_dark" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/negative_shadow_height" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+</RelativeLayout>

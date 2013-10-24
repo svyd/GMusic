@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/bg_signup_phone" android:scaleType="centerCrop" />
+    <LinearLayout android:orientation="vertical" android:background="@color/white" android:padding="@dimen/sign_up_padding_medium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <TextView android:textAppearance="@style/SignUpTitle" android:id="@id/heading_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tutorial_done_heading" android:lineSpacingMultiplier="1.2" />
+        <TextView android:textSize="@dimen/sign_up_text_size_large" android:textColor="@color/signup_body_text" android:id="@id/description_text" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="@dimen/sign_up_padding_small" android:layout_marginBottom="@dimen/sign_up_padding_large" android:text="@string/tutorial_done_body" android:layout_weight="1.0" />
+        <View android:background="@color/signup_divider_background" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <TextView android:textSize="@dimen/sign_up_text_size_small" android:id="@id/play_music_link" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sign_up_padding_medium" android:lineSpacingMultiplier="1.5" />
+        <Button android:id="@id/get_started_button" android:layout_width="fill_parent" android:layout_height="@dimen/sign_up_button_height" android:layout_marginTop="@dimen/sign_up_padding_medium" android:text="@string/tutorial_get_started" style="@style/TutorialButtonOrange" />
+    </LinearLayout>
+</RelativeLayout>

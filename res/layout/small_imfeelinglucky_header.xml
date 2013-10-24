@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.music.ui.cardlib.layout.PlayCardViewRow android:id="@id/play_card" android:background="@drawable/card_bg_play" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <View android:id="@id/row_background" android:layout_width="fill_parent" android:layout_height="@dimen/normal_list_item_height" />
+    <com.google.android.music.ui.cardlib.layout.PlayCardThumbnail android:id="@id/li_thumbnail_frame" android:layout_width="@dimen/normal_list_item_height" android:layout_height="@dimen/normal_list_item_height" android:layout_alignParentRight="true">
+        <com.google.android.music.AsyncAlbumArtImageView android:id="@id/li_thumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" music:placeholder_type="none" />
+    </com.google.android.music.ui.cardlib.layout.PlayCardThumbnail>
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <TextView android:id="@id/li_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="@dimen/play_card_reason_safe" android:maxLines="1" android:singleLine="true" style="@style/PlayCardTitle" />
+        <TextView android:id="@id/li_subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="@dimen/play_card_reason_safe" android:layout_below="@id/li_title" style="@style/PlayCardSubtitle" />
+    </RelativeLayout>
+    <include android:id="@id/li_reason_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="4.0dip" android:layout_marginBottom="1.0dip" android:layout_alignParentBottom="true" layout="@layout/play_card_reason" />
+    <View android:id="@id/accessibility_overlay" android:background="@drawable/orange_highlight" android:focusable="true" android:nextFocusRight="@id/li_overflow" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.google.android.music.ui.cardlib.layout.PlayCardOverflowView android:id="@id/li_overflow" android:nextFocusLeft="@id/play_card" android:layout_marginRight="8.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/PlayCardOverflow" />
+</com.google.android.music.ui.cardlib.layout.PlayCardViewRow>

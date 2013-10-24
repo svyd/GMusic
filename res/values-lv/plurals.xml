@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d DZIESMAS</item>
+        <item quantity="one">1 DZIESMA</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d dziesmas</item>
+        <item quantity="one">1 dziesma</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUMI</item>
+        <item quantity="one">1 ALBUMS</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d albumi</item>
+        <item quantity="one">1 albums</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d dziesmas</item>
+        <item quantity="one">1 dziesma</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d albumi</item>
+        <item quantity="one">1 albums</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d dziesmas pievienotas atsk. sarakstam %2$s.</item>
+        <item quantity="one">1 dziesma pievienota atskaņošanas sarakstam %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Bibliotēkai tika pievienotas %d dziesmas.</item>
+        <item quantity="one">Bibliotēkai tika pievienota 1 dziesma.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Pievien. tikai %1$d dz. Maksimālais dz. sk. rindā: %2$d.</item>
+        <item quantity="one">Pievienota tikai 1 dziesma. Maks. dz. sk. rindā: %2$d.</item>
+    </plurals>
+</resources>

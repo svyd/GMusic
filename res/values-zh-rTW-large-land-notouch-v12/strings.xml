@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">選取音樂帳戶</string>
+    <string name="no_music_upload_body">"您必須設定帳戶，才能將音樂傳送到這裡。
+請在電腦上前往 http://music.google.com/，同步處理您的音樂庫。"</string>
+    <string name="no_music_usb_copy_body">使用 USB 傳輸線在電視上播放音樂。</string>
+</resources>

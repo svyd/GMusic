@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.music.ui.ArtistHeaderView android:background="@color/artist_art_placeholder_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/artist_art" android:layout_width="fill_parent" android:layout_height="@dimen/container_artist_art_height" android:src="@drawable/bg_default_artist_art" android:scaleType="centerCrop" />
+    <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/overlay_top_shadow_height" android:src="@drawable/top_shadow_long" android:layout_alignParentTop="true" />
+    <View android:background="@color/app_background" android:layout_width="fill_parent" android:layout_height="@dimen/default_padding" android:layout_alignParentBottom="true" />
+    <LinearLayout android:layout_gravity="center" android:id="@id/radio_btn_wrapper" android:background="@drawable/card_bg_play_overlap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/default_padding" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+        <ImageView android:id="@id/play_radio" android:background="@drawable/orange_highlight" android:padding="@dimen/default_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_play_radio_orange" />
+    </LinearLayout>
+</com.google.android.music.ui.ArtistHeaderView>

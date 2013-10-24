@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Neue Playlist</string>
+    <string name="add_to_playlist_title">Zu neuer Playlist hinzufügen</string>
+    <string name="ringtone_menu">Als Klingelton verwenden</string>
+    <string name="emptyplaylist">Zum Abspielen berühren</string>
+    <string name="no_music_heading">Ihre Musikbibliothek ist leer.</string>
+    <string name="no_music_setup_uploader_body">Fügen Sie Ihre persönliche Sammlung zu Music Beta hinzu und greifen Sie über einen verbundenen Computer oder ein Android-Gerät sofort darauf zu.</string>
+    <string name="no_music_setup_usb_body">Schließen Sie Ihr Gerät über ein USB-Kabel an Ihren Computer an, um Musikdateien auf Ihr Gerät zu kopieren. Falls Sie einen Mac verwenden, laden Sie zunächst die kostenlose App \"Android File Transfer\" auf Ihren Computer herunter.</string>
+    <string name="stream_error_only_on_wifi">Zum Streamen von Musik ist eine aktive WLAN-Verbindung erforderlich.</string>
+    <string name="stream_error_no_connection">Sie können keine Musik streamen, weil Sie mit keinem Datennetzwerk verbunden sind.</string>
+</resources>

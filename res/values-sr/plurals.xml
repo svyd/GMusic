@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">ПЕСАМА: %1$d</item>
+        <item quantity="one">1 ПЕСМА</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">Песама: %1$d</item>
+        <item quantity="one">1 песма</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d АЛБУМА</item>
+        <item quantity="one">1 АЛБУМ</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d албума</item>
+        <item quantity="one">1 албум</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">Песама: %1$d</item>
+        <item quantity="one">1 песма</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d албума</item>
+        <item quantity="one">1 албум</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Песме (%1$d) су додате на плејлисту %2$s.</item>
+        <item quantity="one">1 песма је додата на плејлисту %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Песме (%d) су додате у фонотеку.</item>
+        <item quantity="one">1 песма је додата у фонотеку.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Додато песама: само %1$d. Макс. песама у реду је %2$d.</item>
+        <item quantity="one">Додата је само 1 песма. Макс. песама у реду: %2$d.</item>
+    </plurals>
+</resources>

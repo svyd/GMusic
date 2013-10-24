@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Nov seznam predvajanja</string>
+    <string name="add_to_playlist_title">Dodaj na nov seznam predvajanja</string>
+    <string name="ringtone_menu">Uporabi kot melodijo zvonjenja</string>
+    <string name="emptyplaylist">Dotaknite se, da predvajate</string>
+    <string name="no_music_heading">Vaša glasbena zbirka je prazna</string>
+    <string name="no_music_setup_uploader_body">Dodajte glasbeno zbirko v Google Glasbo beta in takoj dostopajte do nje iz katerega koli povezanega računalnika ali naprave Android.</string>
+    <string name="no_music_setup_usb_body">S kablom USB povežite napravo in računalnik, da glasbene datoteke prenesete v napravo. Če imate računalnik Macintosh, v računalnik najprej prenesite brezplačen program za prenos Android File Transfer.</string>
+    <string name="stream_error_only_on_wifi">Za pretočno predvajanje glasbe morate biti povezani v omrežje Wi-Fi</string>
+    <string name="stream_error_no_connection">Glasbe ne morete pretočno predvajati, ker niste povezani v podatkovno omrežje.</string>
+</resources>

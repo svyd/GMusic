@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">New playlist</string>
+    <string name="add_to_playlist_title">Add to new playlist</string>
+    <string name="ringtone_menu">Use as a ringtone</string>
+    <string name="emptyplaylist">Touch to play</string>
+    <string name="no_music_heading">Your music library is empty</string>
+    <string name="no_music_setup_uploader_body">Add your personal collection to Music Beta and access it instantly from any connected computer or Android device.</string>
+    <string name="no_music_setup_usb_body">Connect your device to your computer with a USB cable to copy music files to your device. If you have a Macintosh, download the free Android File Transfer application to your computer first.</string>
+    <string name="stream_error_only_on_wifi">You must be connected to a Wi-Fi network to stream music</string>
+    <string name="stream_error_no_connection">"You can't stream music, because you're not connected to a data network."</string>
+</resources>

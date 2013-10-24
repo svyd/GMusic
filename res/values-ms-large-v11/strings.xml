@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Senarai main baru</string>
+    <string name="add_to_playlist_title">Tambahkan pada senarai main baru</string>
+    <string name="ringtone_menu">Gunakan sebagai nada dering</string>
+    <string name="emptyplaylist">Sentuh untuk memainkan</string>
+    <string name="no_music_heading">Perpustakaan muzik anda kosong</string>
+    <string name="no_music_setup_uploader_body">Tambah koleksi peribadi anda ke Music Beta dan aksesnya dengan serta-merta dari mana-mana komputer yang disambungkan atau peranti Android.</string>
+    <string name="no_music_setup_usb_body">Sambungkan peranti anda ke komputer anda dengan kabel USB untuk menyalin fail muzik ke peranti anda. Jika anda mempunyai Macintosh, muat turun aplikasi Pemindahan Fail Android percuma ke komputer anda terlebih dahulu.</string>
+    <string name="stream_error_only_on_wifi">Anda mesti disambungkan kepada rangkaian Wi-Fi untuk menstrim muzik</string>
+    <string name="stream_error_no_connection">Anda tidak boleh menstrim muzik kerana anda tidak disambungkan kepada rangkaian data.</string>
+</resources>

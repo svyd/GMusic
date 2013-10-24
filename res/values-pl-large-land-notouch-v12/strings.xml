@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Wybierz konto Muzyki</string>
+    <string name="no_music_upload_body">"Aby można było pobrać muzykę, Twoje konto musi być skonfigurowane.
+Odwiedź http://music.google.com/ na komputerze, aby zsynchronizować bibliotekę muzyki."</string>
+    <string name="no_music_usb_copy_body">Odtwarzaj muzykę w telewizorze przy użyciu kabla USB.</string>
+</resources>

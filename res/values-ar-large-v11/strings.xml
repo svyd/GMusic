@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">قائمة تشغيل جديدة</string>
+    <string name="add_to_playlist_title">إضافة إلى قائمة تشغيل جديدة</string>
+    <string name="ringtone_menu">استخدام كنغمة رنين</string>
+    <string name="emptyplaylist">المس للتشغيل</string>
+    <string name="no_music_heading">مكتبة الموسيقى فارغة</string>
+    <string name="no_music_setup_uploader_body">يمكنك إضافة مجموعتك الشخصية إلى الإصدار التجريبي من Music والوصول إليها فورًا من أي جهاز كمبيوتر أو جهاز Android متصل.</string>
+    <string name="no_music_setup_usb_body">يمكنك توصيل جهازك بجهاز كمبيوتر باستخدام كابل USB كي يتسنى لك نسخ ملفات الموسيقى إلى جهازك. إذا كان جهازك يعمل بنظام التشغيل Macintosh، فعليك بتنزيل تطبيق نقل ملفات Android المجاني إلى جهاز الكمبيوتر أولاً.</string>
+    <string name="stream_error_only_on_wifi">يجب الاتصال بشبكة Wi-Fi لبث الموسيقى</string>
+    <string name="stream_error_no_connection">لا يمكنك بث موسيقى لأنك غير متصل بشبكة بيانات.</string>
+</resources>

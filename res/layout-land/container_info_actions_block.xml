@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/gray_block" android:background="@color/app_background_light_transparent" android:layout_width="fill_parent" android:layout_height="@dimen/container_actions_block_height" android:layout_alignBottom="@id/place_holder"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d ŞARKI</item>
+        <item quantity="one">1 ŞARKI</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d şarkı</item>
+        <item quantity="one">1 şarkı</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBÜM</item>
+        <item quantity="one">1 ALBÜM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d albüm</item>
+        <item quantity="one">1 albüm</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d şarkı</item>
+        <item quantity="one">1 şarkı</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d albüm</item>
+        <item quantity="one">1 albüm</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%2$s şarkı listesine %1$d şarkı eklendi.</item>
+        <item quantity="one">%2$s şarkı listesine 1 şarkı eklendi.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d şarkı kitaplığa eklendi.</item>
+        <item quantity="one">1 şarkı kitaplığa eklendi.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Yalnızca %1$d şarkı eklendi. Sırada en çok %2$d şarkı olabilir.</item>
+        <item quantity="one">Yalnızca 1 şarkı eklendi. Sırada en çok %2$d şarkı olabilir.</item>
+    </plurals>
+</resources>

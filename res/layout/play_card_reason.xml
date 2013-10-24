@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.music.ui.cardlib.layout.PlayCardReason android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <com.google.android.music.AsyncAlbumArtImageView android:id="@id/li_thumbnail_reason" android:layout_width="36.0dip" android:layout_height="36.0dip" android:scaleType="fitStart" android:layout_toRightOf="@id/li_thumbnail_frame" music:circle_cut="true" />
+    <TextView android:textSize="@dimen/play_small_size" android:textColor="@color/grey" android:ellipsize="end" android:id="@id/li_reason" android:paddingLeft="4.0dip" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:singleLine="false" style="@style/PlayGridContentSecondary" />
+</com.google.android.music.ui.cardlib.layout.PlayCardReason>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">뮤직 계정 선택</string>
+    <string name="no_music_upload_body">"여기로 음악을 가져오려면 계정을 설정해야 합니다.
+PC에서 http://music.google.com/ 사이트로 이동하여 뮤직 라이브러리를 동기화하시기 바랍니다."</string>
+    <string name="no_music_usb_copy_body">USB 케이블을 사용하여 TV에서 음악을 재생하세요.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Uus esitusloend</string>
+    <string name="add_to_playlist_title">Uue esitusloendi loomine</string>
+    <string name="ringtone_menu">Kasuta helinana</string>
+    <string name="emptyplaylist">Esitamiseks puudutage</string>
+    <string name="no_music_heading">Teie muusikateek on tühi</string>
+    <string name="no_music_setup_uploader_body">Lisage oma isiklik kogu Musicu beetaversiooni, mis annab viivitamatu juurdepääsu kõigist ühendatud arvutitest või Android-seadmetest.</string>
+    <string name="no_music_setup_usb_body">Seadmesse muusikafailide kopeerimiseks ühendage seade arvutiga USB-kaabli abil. Kui teil on Macintosh, laadige esmalt arvutisse tasuta Androidi failiedastuse rakendus.</string>
+</resources>

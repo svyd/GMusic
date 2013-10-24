@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: com.google.android.music-2.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '8'
+  targetSdkVersion: '18'
+packageInfo:
+  cur_package: android
+  orig_package: com.google.android.music
+compressionType: false

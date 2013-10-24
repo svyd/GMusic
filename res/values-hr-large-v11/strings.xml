@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Novi popis za reprodukciju</string>
+    <string name="add_to_playlist_title">Dodaj na novi popis za reprodukciju</string>
+    <string name="ringtone_menu">Upotrijebi kao melodiju zvona</string>
+    <string name="emptyplaylist">Dodirnite za reprodukciju</string>
+    <string name="no_music_heading">Vaša je glazbena biblioteka prazna</string>
+    <string name="no_music_setup_uploader_body">Dodajte svoju osobnu zbirku na uslugu Glazba Beta i pristupite joj u trenu s bilo kojeg povezanog računala ili uređaja Android.</string>
+    <string name="no_music_setup_usb_body">Povežite uređaj s računalom pomoću USB kabela i kopirajte glazbene datoteke na uređaj. Ako imate Macintosh, najprije na svoje računalo preuzmite besplatnu aplikaciju Android File Transfer.</string>
+    <string name="stream_error_only_on_wifi">Za strujanje glazbe morate biti povezani s Wi-Fi mrežom</string>
+    <string name="stream_error_no_connection">Ne možete prenositi glazbu strujanjem jer niste povezani s podatkovnom mrežom.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d 首歌曲</item>
+        <item quantity="one">1 首歌曲</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d 首歌曲</item>
+        <item quantity="one">1 首歌曲</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d 張專輯</item>
+        <item quantity="one">1 張專輯</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d 張專輯</item>
+        <item quantity="one">1 張專輯</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d 首歌曲</item>
+        <item quantity="one">1 首歌曲</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d 張專輯</item>
+        <item quantity="one">1 張專輯</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">已將 %1$d 首歌加到%2$s。</item>
+        <item quantity="one">已將 1 首歌加到%2$s。</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">已將 %d 首歌曲加入音樂庫。</item>
+        <item quantity="one">已將 1 首歌曲加入音樂庫。</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">僅新增了 %1$d 首歌曲，最多可加入 %2$d 首歌曲。</item>
+        <item quantity="one">僅新增了 1 首歌曲，最多可加入 %2$d 首歌曲。</item>
+    </plurals>
+</resources>

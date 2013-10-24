@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/app_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/tutorial_logo" android:background="@drawable/ic_signup_intro" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <TextView android:textSize="@dimen/sign_up_text_size_small" android:textStyle="bold" android:textColor="@color/tutorial_database_updating" android:gravity="center" android:id="@id/database_updating" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding_large" android:layout_below="@id/tutorial_logo" android:layout_centerHorizontal="true" />
+</RelativeLayout>

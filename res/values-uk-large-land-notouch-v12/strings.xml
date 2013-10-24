@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Виберіть обліковий запис для програми Музика</string>
+    <string name="no_music_upload_body">"Потрібно  налаштувати обліковий запис, щоб отримати музику тут.
+Перейдіть у комп’ютері на сторінку http://music.google.com/, щоб синхронізувати свою бібліотеку служби Музика."</string>
+    <string name="no_music_usb_copy_body">Відтворюйте музику на екрані телевізора за допомогою кабелю USB.</string>
+</resources>

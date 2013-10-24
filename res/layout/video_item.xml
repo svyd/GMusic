@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="@dimen/youtube_image_height"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <com.google.android.music.AsyncAlbumArtImageView android:id="@id/thumbnail" android:layout_width="@dimen/youtube_image_width" android:layout_height="@dimen/youtube_image_height" android:layout_marginLeft="@dimen/youtube_image_margin" android:layout_marginBottom="@dimen/youtube_image_margin" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/youtube_info_padding_left" android:layout_toRightOf="@id/thumbnail" android:layout_alignWithParentIfMissing="true">
+        <TextView android:textAppearance="@style/VideoTitle" android:ellipsize="marquee" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+        <TextView android:textAppearance="@style/VideoSubtitle" android:ellipsize="marquee" android:id="@id/author" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/title" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" />
+        <TextView android:textAppearance="@style/VideoSubtitle" android:ellipsize="marquee" android:id="@id/details" android:paddingTop="@dimen/youtube_details_padding_top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/author" android:layout_alignWithParentIfMissing="true" />
+    </RelativeLayout>
+</RelativeLayout>

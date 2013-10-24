@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d SANGE</item>
+        <item quantity="one">Én sang</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d sange</item>
+        <item quantity="one">1 sang</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUMMER</item>
+        <item quantity="one">Ét album</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d albummer</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d sange</item>
+        <item quantity="one">1 sang</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d albummer</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d sange føjet til %2$s.</item>
+        <item quantity="one">Én sang tilføjet til %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d sange føjet til biblioteket.</item>
+        <item quantity="one">1 sang føjes til biblioteket.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Kun %1$d sange tilføjet. Sæt maks. %2$d sange i kø.</item>
+        <item quantity="one">Kun én sang tilføjet. Sæt maks. %2$d sange i kø.</item>
+    </plurals>
+</resources>

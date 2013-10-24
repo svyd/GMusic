@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d 首歌曲</item>
+        <item quantity="one">1 首歌曲</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d 首歌曲</item>
+        <item quantity="one">1 首歌曲</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d 张专辑</item>
+        <item quantity="one">1 张专辑</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d 张专辑</item>
+        <item quantity="one">1 张专辑</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d 首歌曲</item>
+        <item quantity="one">1 首歌曲</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d 张专辑</item>
+        <item quantity="one">1 张专辑</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">已将 %1$d 首歌曲添加到%2$s。</item>
+        <item quantity="one">已将 1 首歌曲添加到%2$s。</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">已将%d首歌曲添加到音乐库。</item>
+        <item quantity="one">已将1首歌曲添加到音乐库。</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">只添加了 %1$d 首歌曲。队列上限为 %2$d 首歌曲。</item>
+        <item quantity="one">只添加了 1 首歌曲。队列上限为 %2$d 首歌曲。</item>
+    </plurals>
+</resources>

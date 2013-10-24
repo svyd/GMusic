@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Seleccionar una cuenta para Music</string>
+    <string name="no_music_upload_body">"Tienes que configurar tu cuenta para reproducir tu música aquí.
+Ve a http://music.google.com/ desde tu PC para sincronizar tu biblioteca de música."</string>
+    <string name="no_music_usb_copy_body">Reproduce música en tu TV con un cable USB.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="330.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginLeft="@dimen/radio_creation_dialog_padding" android:layout_marginTop="@dimen/radio_creation_dialog_padding" android:layout_marginRight="@dimen/radio_creation_dialog_padding" android:layout_marginBottom="25.0dip">
+        <ImageView android:id="@id/fallback" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <VideoView android:id="@id/dice_video" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/radio_creation_dialog_padding" android:layout_marginRight="@dimen/radio_creation_dialog_padding" android:layout_marginBottom="@dimen/radio_creation_dialog_padding" android:textAlignment="center" />
+    <View android:id="@id/divider" android:background="@color/divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <Button android:textAppearance="?android:textAppearanceMedium" android:id="@id/ok" android:background="@drawable/orange_highlight" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/create_instant_mix_btn_ok" />
+</LinearLayout>

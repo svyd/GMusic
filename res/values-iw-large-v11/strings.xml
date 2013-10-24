@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">פלייליסט חדש</string>
+    <string name="add_to_playlist_title">הוסף לפלייליסט חדש</string>
+    <string name="ringtone_menu">השתמש כרינגטון</string>
+    <string name="emptyplaylist">גע כדי להפעיל</string>
+    <string name="no_music_heading">ספריית המוסיקה שלך ריקה</string>
+    <string name="no_music_setup_uploader_body">הוסף את האוסף האישי שלך לגרסת הביטא של Google Music וקבל אליו גישה מיידית מכל מחשב או מכשיר Android עם חיבור.</string>
+    <string name="no_music_setup_usb_body">"חבר את המכשיר למחשב באמצעות כבל USB כדי להעתיק קובצי מוסיקה למכשיר. אם יש לך Macintosh, הורד תחילה למחשב את היישום 'העברת קבצים ב-Android' ללא תשלום."</string>
+    <string name="stream_error_only_on_wifi">עליך להיות מחובר לרשת Wi-Fi כדי להזרים מוסיקה</string>
+    <string name="stream_error_no_connection">אין לך אפשרות להזרים מוסיקה משום שאינך מחובר לרשת נתונים.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/play_queue_wrapper" android:background="@drawable/popup_selector_bg" android:layout_width="360.0dip" android:layout_height="536.0dip" android:layout_margin="@dimen/default_padding_large" android:layout_below="@id/top_wrapper_right" android:layout_alignParentRight="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <TextView android:textStyle="bold" android:gravity="center_vertical" android:background="@color/app_background_light" android:paddingLeft="@dimen/grabhandle_image_width" android:layout_width="fill_parent" android:layout_height="24.0dip" android:text="@string/now_playing_queue_label" style="@style/PlayCardSubtitle" />
+    <View android:background="@color/divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <com.google.android.music.ui.BaseTrackListView android:id="@id/play_queue" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@drawable/list_divider_horizontal" />
+</LinearLayout>

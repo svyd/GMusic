@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="10.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minWidth="500.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <com.google.android.music.SafePostProgressBar android:layout_gravity="center" android:id="@id/spinner" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:attr/progressBarStyleLarge" />
+    <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/loading" android:paddingTop="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.google.android.music.SizableTrackSeekBar android:id="@id/progress" android:background="#000000f0" android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:progressDrawable="@drawable/progress_horizontal" android:thumb="@drawable/seek_thumb" android:thumbOffset="16.0dip" music:trackHeight="4.0dip" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/titleandbuttons" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_weight="1.0">
+            <TextView android:textSize="14.0sp" android:ellipsize="marquee" android:id="@id/line1" android:paddingTop="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textSize="14.0sp" android:ellipsize="marquee" android:id="@id/line2" android:paddingTop="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageButton android:layout_gravity="center_vertical" android:id="@id/playpause" android:background="@null" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginLeft="16.0dip" android:src="@drawable/ic_pause_dark" android:scaleType="fitCenter" android:onClick="playPauseClicked" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

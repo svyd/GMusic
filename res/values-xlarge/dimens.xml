@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tutorial_padding_top">164.0dip</dimen>
+    <dimen name="tutorial_padding_bottom">96.0dip</dimen>
+    <dimen name="widget_np_small_min_width">294.0dip</dimen>
+    <dimen name="widget_np_small_min_height">72.0dip</dimen>
+    <dimen name="widget_np_small_album_art_size">42.0dip</dimen>
+    <dimen name="widget_np_small_button_size">42.0dip</dimen>
+    <dimen name="widget_np_small_text_padding_top">3.0dip</dimen>
+    <dimen name="container_artist_art_height">400.0dip</dimen>
+    <dimen name="play_cluster_header_title_size">36.0sp</dimen>
+    <dimen name="abc_action_bar_default_height">56.0dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">4.0dip</dimen>
+    <dimen name="abc_action_bar_title_text_size">18.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-3.0dip</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">9.0dip</dimen>
+    <dimen name="abc_action_button_min_width">64.0dip</dimen>
+    <dimen name="abc_search_view_text_min_width">192.0dip</dimen>
+    <dimen name="tutorial_padding_left">128.0dip</dimen>
+    <dimen name="tutorial_padding_right">128.0dip</dimen>
+    <dimen name="tabbed_now_playing_play_control_padding">12.0dip</dimen>
+</resources>

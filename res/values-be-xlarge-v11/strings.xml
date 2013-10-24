@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Новы плэйліст</string>
+    <string name="add_to_playlist_title">Дадаць у новы плэйліст</string>
+    <string name="ringtone_menu">Выкарыстоўваць у якасці рынгтона</string>
+    <string name="emptyplaylist">Дакраніцеся, каб пачаць прайграванне</string>
+    <string name="no_music_heading">Ваша музычная бібліятэка пустая</string>
+    <string name="no_music_setup_uploader_body">Дадайце асабістую калекцыю ў Music Beta і слухайце яе з любога падлучанага кампутара ці прылады Android.</string>
+    <string name="no_music_setup_usb_body">Падлучыце прыладу да кампутара з дапамогай кабеля USB, каб скапіяваць музычныя файлы на прыладу. Калі ў вас Macintosh, спачатку спампуйце бясплатнае прыкладанне Android File Transfer.</string>
+</resources>

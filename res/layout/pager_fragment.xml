@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <com.google.android.music.ui.PlayTabContainer android:id="@id/pf_tab_row" android:background="@drawable/play_checker_tile" android:scrollbars="none" android:fadingEdgeLength="0.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/play_tab_strip_height" android:fillViewport="true" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+        <com.google.android.music.ui.PlayTabStrip android:orientation="horizontal" android:id="@id/pager_tab_strip" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+    </com.google.android.music.ui.PlayTabContainer>
+    <android.support.v4.view.ViewPager android:id="@id/pf_view_pager" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/pf_tab_row" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

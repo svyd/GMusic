@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Vyberte účet pre službu Hudba</string>
+    <string name="no_music_upload_body">"Ak chcete, aby sa tu zobrazila vaša hudba, musí byť váš účet nakonfigurovaný.
+Prejdite v počítači na stránku http://music.google.com/ a synchronizujte svoju hudobnú knižnicu."</string>
+    <string name="no_music_usb_copy_body">Prehrávajte hudbu na svojom televízore pomocou kábla USB.</string>
+</resources>

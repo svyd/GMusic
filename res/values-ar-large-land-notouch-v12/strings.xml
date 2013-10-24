@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">تحديد حساب لتطبيق \"موسيقى\"</string>
+    <string name="no_music_upload_body">"يجب تهيئة الحساب للحصول على الموسيقى هنا.
+الرجاء الانتقال إلى http://music.google.com/ على جهاز الكمبيوتر لمزامنة مكتبة الموسيقى."</string>
+    <string name="no_music_usb_copy_body">تشغيل الموسيقى على التلفزيون باستخدام كابل USB.</string>
+</resources>

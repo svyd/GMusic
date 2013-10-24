@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">SKLADBY: %1$d</item>
+        <item quantity="one">1 SKLADBA</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">Skladby: %1$d</item>
+        <item quantity="one">1 skladba</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">ALBA: %1$d</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">Alba: %1$d</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">Skladby: %1$d</item>
+        <item quantity="one">1 skladba</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">Alba: %1$d</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Počet skladeb přidaných do seznamu %2$s: %1$d</item>
+        <item quantity="one">Do seznamu skladeb %2$s byla přidána 1 skladba.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Do knihovny byly přidány skladby: %d.</item>
+        <item quantity="one">Do knihovny byla přidána 1 skladba.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Přidané skladby: %1$d. Maximální počet skladeb je %2$d.</item>
+        <item quantity="one">Přidána 1 skladba. Maximální počet skladeb je %2$d.</item>
+    </plurals>
+</resources>

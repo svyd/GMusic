@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Chagua akaunti ya Muziki</string>
+    <string name="no_music_upload_body">"Akaunti yako inahitaji kusanidiwa ili kupata muziki wako hapa.
+Tafadhali nenda kwa http://music.google.com/ kwenye kompyuta yako ili kulandanisha maktaba yako ya muziki."</string>
+    <string name="no_music_usb_copy_body">Cheza muziki kwenye TV yako kwa kutumia kebo ya USB.</string>
+</resources>

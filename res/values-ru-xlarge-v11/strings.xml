@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Новый плейлист</string>
+    <string name="add_to_playlist_title">Добавить в новый плейлист</string>
+    <string name="ringtone_menu">Поставить на звонок</string>
+    <string name="emptyplaylist">Нажать для воспроизведения</string>
+    <string name="no_music_heading">В вашей музыкальной библиотеке нет записей</string>
+    <string name="no_music_setup_uploader_body">Добавьте свою музыку в бета-версию Music и слушайте ее на любом компьютере или устройстве Android, подключенном к Интернету.</string>
+    <string name="no_music_setup_usb_body">Подключите устройство к компьютеру с помощью USB-кабеля и скопируйте файлы на устройство. Для работы с Macintosh предварительно загрузите на компьютер бесплатное приложение Android File Transfer.</string>
+</resources>

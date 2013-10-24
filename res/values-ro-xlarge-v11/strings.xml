@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Listă de redare nouă</string>
+    <string name="add_to_playlist_title">Adăugaţi la lista de redare nouă</string>
+    <string name="ringtone_menu">Utilizaţi ca ton de apel</string>
+    <string name="emptyplaylist">Atingeţi pentru redare</string>
+    <string name="no_music_heading">Biblioteca dvs. muzicală este goală</string>
+    <string name="no_music_setup_uploader_body">Adăugaţi colecţia dvs. personală la Muzică beta şi o puteţi accesa instantaneu de pe orice computer sau dispozitiv Android conectat.</string>
+    <string name="no_music_setup_usb_body">Conectaţi dispozitivul la computer printr-un cablu USB şi copiaţi fişiere de muzică pe dispozitiv. Dacă utilizaţi Macintosh, descărcaţi mai întâi pe computer aplicaţia gratuită Transfer de fişiere Android.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Bagong playlist</string>
+    <string name="add_to_playlist_title">Idagdag sa bagong playlist</string>
+    <string name="ringtone_menu">Gamitin bilang isang ringtone</string>
+    <string name="emptyplaylist">Pindutin upang i-play</string>
+    <string name="no_music_heading">Walang laman ang iyong library ng musika</string>
+    <string name="no_music_setup_uploader_body">Idagdag ang iyong personal na koleksyon sa Music Beta at agad itong ma-access mula sa anumang nakakonektang computer o Android na device.</string>
+    <string name="no_music_setup_usb_body">Ikonekta ang iyong device sa iyong computer gamit ang isang USB cable upang kopyahin ang iyong mga musikang file sa iyong device. Kung mayroon kang Macintosh, i-download muna ang libreng application na Android File Transfer sa iyong computer.</string>
+</resources>

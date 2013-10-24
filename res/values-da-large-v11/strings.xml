@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Ny afspilningsliste</string>
+    <string name="add_to_playlist_title">Føj til ny afspilningsliste</string>
+    <string name="ringtone_menu">Brug som ringetone</string>
+    <string name="emptyplaylist">Tryk for at afspille</string>
+    <string name="no_music_heading">Dit musikbibliotek er tomt</string>
+    <string name="no_music_setup_uploader_body">Føj din personlige samling til Musik Beta, og få adgang til den med det samme fra en hvilken som helst tilkoblet computer eller Android-enhed.</string>
+    <string name="no_music_setup_usb_body">Forbind din enhed til din computer med et USB-kabel for at kopiere musikfiler til din enhed. Hvis du har en Mac, skal du først downloade Android Filoverførsel gratis til din computer.</string>
+    <string name="stream_error_only_on_wifi">Du skal have forbindelse til et Wi-Fi-netværk for at streame musik</string>
+    <string name="stream_error_no_connection">Du kan ikke streame musik, fordi du ikke har forbindelse til et datanetværk.</string>
+</resources>

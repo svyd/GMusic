@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Pasirinkite Muzikos paskyrą</string>
+    <string name="no_music_upload_body">"Jūsų paskyra turi būti sukonfigūruota, kad čia gautumėte muziką.
+Kompiuteriu apsilankykite adresu http://music.google.com/, kad sinchronizuotumėte savo muzikos biblioteką."</string>
+    <string name="no_music_usb_copy_body">Leiskite muziką savo televizoriuje naudodami USB laidą.</string>
+</resources>

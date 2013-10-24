@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d LÅTAR</item>
+        <item quantity="one">1 LÅT</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d låtar</item>
+        <item quantity="one">1 låt</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d SKIVOR</item>
+        <item quantity="one">1 SKIVA</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d låtar</item>
+        <item quantity="one">1 låt</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d album</item>
+        <item quantity="one">1 skiva</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d låtar har lagts till i %2$s.</item>
+        <item quantity="one">1 låt har lagts till i %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d låtar har lagts till i biblioteket.</item>
+        <item quantity="one">1 låt har lagts till i biblioteket</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Du lade till %1$d låtar. Kön kan innehålla %2$d låtar.</item>
+        <item quantity="one">Du lade till en låt. Kön kan innehålla %2$d låtar.</item>
+    </plurals>
+</resources>

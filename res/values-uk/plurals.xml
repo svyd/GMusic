@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">ПІСЕНЬ: %1$d</item>
+        <item quantity="one">1 ПІСНЯ</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">Пісень: %1$d</item>
+        <item quantity="one">1 пісня</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">АЛЬБОМІВ: %1$d</item>
+        <item quantity="one">1 АЛЬБОМ</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">Альбомів: %1$d</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">Пісень: %1$d</item>
+        <item quantity="one">1 пісня</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">Альбомів: %1$d</item>
+        <item quantity="one">1 альбом</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">До списку відтворення %2$s додано стільки пісень: %1$d.</item>
+        <item quantity="one">До списку відтворення %2$s додано 1 пісню.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">У бібліотеку додано стільки пісень: %d.</item>
+        <item quantity="one">У бібліотеку додано 1 пісню.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Додано пісень: %1$d. Максимум пісень у черзі: %2$d.</item>
+        <item quantity="one">Додано лише 1 пісню. Максимум пісень у черзі: %2$d.</item>
+    </plurals>
+</resources>

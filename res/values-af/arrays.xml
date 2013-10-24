@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 week</item>
+        <item>2 weke</item>
+        <item>3 weke</item>
+        <item>4 weke</item>
+        <item>5 weke</item>
+        <item>6 weke</item>
+        <item>7 weke</item>
+        <item>8 weke</item>
+        <item>9 weke</item>
+        <item>10 weke</item>
+        <item>11 weke</item>
+        <item>12 weke</item>
+    </string-array>
+</resources>

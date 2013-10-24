@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Nouvelle playlist</string>
+    <string name="add_to_playlist_title">Ajouter à la nouvelle playlist</string>
+    <string name="ringtone_menu">Définir comme sonnerie</string>
+    <string name="emptyplaylist">Appuyez ici pour lancer la lecture.</string>
+    <string name="no_music_heading">Votre bibliothèque musicale est vide</string>
+    <string name="no_music_setup_uploader_body">Ajoutez le contenu de votre bibliothèque personnelle sur Music (Bêta). Vous pourrez y accéder instantanément depuis tout ordinateur ou appareil Android connecté.</string>
+    <string name="no_music_setup_usb_body">"Copiez des fichiers musicaux sur votre appareil en le connectant à votre ordinateur à l'aide d'un câble USB. Si vous possédez un Macintosh, téléchargez d'abord l'application gratuite Android File Transfer sur votre ordinateur."</string>
+    <string name="stream_error_only_on_wifi">Vous devez être connecté à un réseau Wi-Fi pour écouter de la musique en streaming.</string>
+    <string name="stream_error_no_connection">"Vous ne pouvez pas écouter de musique en streaming, car vous n'êtes connecté à aucun réseau de données."</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Een account voor Music selecteren</string>
+    <string name="no_music_upload_body">"Uw account moet zijn geconfigureerd om uw muziek hier te krijgen.
+Ga naar http://music.google.com/ op uw pc om uw muziekbibliotheek te synchroniseren."</string>
+    <string name="no_music_usb_copy_body">Speel muziek af op uw tv via een USB-kabel.</string>
+</resources>

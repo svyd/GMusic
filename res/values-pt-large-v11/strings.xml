@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Nova lista de reprodução</string>
+    <string name="add_to_playlist_title">Adicionar à nova lista de reprodução</string>
+    <string name="ringtone_menu">Usar como toque</string>
+    <string name="emptyplaylist">Toque para reproduzir</string>
+    <string name="no_music_heading">Sua biblioteca de músicas está vazia</string>
+    <string name="no_music_setup_uploader_body">Adicione sua coleção pessoal ao Music Beta e acesse-a rapidamente de qualquer computador conectado ou dispositivo Android.</string>
+    <string name="no_music_setup_usb_body">Com um cabo USB, conecte seu dispositivo ao computador e copie os arquivos de música para seu dispositivo. Se você tiver um Macintosh, faça download do aplicativo gratuito de Transferência de arquivos do Android para seu computador.</string>
+    <string name="stream_error_only_on_wifi">Você deve estar conectado a uma rede Wi-Fi para transmitir música</string>
+    <string name="stream_error_no_connection">Não é possível transferir músicas porque você não está conectado a uma rede de dados.</string>
+</resources>

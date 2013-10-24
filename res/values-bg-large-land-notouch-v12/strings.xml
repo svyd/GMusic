@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Изберете профил за Музика</string>
+    <string name="no_music_upload_body">"Профилът ви трябва да бъде конфигуриран, за да получите музиката си тук.
+Моля, отворете http://music.google.com/ на компютъра си, за да синхронизирате музикалната си библиотека."</string>
+    <string name="no_music_usb_copy_body">Пускайте музика на телевизора си посредством USB кабел.</string>
+</resources>

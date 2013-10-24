@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d गीत</item>
+        <item quantity="one">1 गीत</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d गीत</item>
+        <item quantity="one">1 गीत</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d एल्बम</item>
+        <item quantity="one">1 एल्बम</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d एल्बम</item>
+        <item quantity="one">1 एल्बम</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d गीत</item>
+        <item quantity="one">1 गीत</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d एल्बम</item>
+        <item quantity="one">1 एल्बम</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%2$s में %1$d गीत जोडे गए.</item>
+        <item quantity="one">%2$s में 1 गाना जोड़ा गया.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">लाइब्ररी में %d गीत जोड़े गए.</item>
+        <item quantity="one">लाइब्ररी में 1 गीत जोड़ा गया.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">बस %1$d गीत जोड़े गए. कतार में अधि. %2$d गीत हो सकते हैं.</item>
+        <item quantity="one">बस 1 गीत जोड़ा गया. कतार में अधिकतम %2$d गीत हो सकते हैं.</item>
+    </plurals>
+</resources>

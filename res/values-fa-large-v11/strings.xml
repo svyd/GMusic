@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">لیست پخش جدید</string>
+    <string name="add_to_playlist_title">افزودن به لیست پخش جدید</string>
+    <string name="ringtone_menu">استفاده به عنوان آهنگ زنگ</string>
+    <string name="emptyplaylist">برای پخش لمس کنید</string>
+    <string name="no_music_heading">کتابخانه موسیقی شما خالی است</string>
+    <string name="no_music_setup_uploader_body">مجموعه شخصی خود را به موسیقی بتا اضافه کنید و از هر رایانه متصل یا دستگاه Android فوراً به آن دسترسی داشته باشید.</string>
+    <string name="no_music_setup_usb_body">برای کپی کردن فایل های موسیقی در دستگاه خود، دستگاه را با استفاده از یک کابل USB به رایانه وصل کنید. اگر Macintosh دارید، ابتدا برنامه رایگان Android File Transfer را در رایانه خود دانلود کنید.</string>
+    <string name="stream_error_only_on_wifi">برای پخش جریانی موسیقی لازم است که به یک شبکه Wi-Fi متصل شوید.</string>
+    <string name="stream_error_no_connection">امکان پخش جریانی موسیقی وجود ندارد زیرا به یک شبکه داده متصل نیستید.</string>
+</resources>

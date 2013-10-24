@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">בחר חשבון למוסיקה</string>
+    <string name="no_music_upload_body">"כדי לקבל את המוסיקה שלך כאן, עליך להגדיר את החשבון שלך.
+עבור אל http://music.google.com/ במחשב שלך כדי לסנכרן את ספריית המוסיקה שלך."</string>
+    <string name="no_music_usb_copy_body">השמע מוסיקה בטלוויזיה שלך באמצעות כבל USB.</string>
+</resources>

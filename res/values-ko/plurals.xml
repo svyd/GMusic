@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d곡</item>
+        <item quantity="one">노래 1곡</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d곡</item>
+        <item quantity="one">1곡</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">앨범 %1$d개</item>
+        <item quantity="one">앨범 1개</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">앨범 %1$d개</item>
+        <item quantity="one">앨범 1개</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d곡</item>
+        <item quantity="one">1곡</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">앨범 %1$d개</item>
+        <item quantity="one">앨범 1개</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">노래 %1$d곡이 %2$s에 추가되었습니다.</item>
+        <item quantity="one">노래 1곡이 %2$s에 추가되었습니다.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">라이브러리에 %d곡이 추가되었습니다.</item>
+        <item quantity="one">라이브러리에 1곡이 추가되었습니다.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">%1$d곡만 추가되었습니다. 대기열 한도: %2$d곡</item>
+        <item quantity="one">1곡만 추가되었습니다. 대기열 한도: %2$d곡</item>
+    </plurals>
+</resources>

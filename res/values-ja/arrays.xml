@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1週間</item>
+        <item>2週間</item>
+        <item>3週間</item>
+        <item>4週間</item>
+        <item>5週間</item>
+        <item>6週間</item>
+        <item>7週間</item>
+        <item>8週間</item>
+        <item>9週間</item>
+        <item>10週間</item>
+        <item>11週間</item>
+        <item>12週間</item>
+    </string-array>
+</resources>

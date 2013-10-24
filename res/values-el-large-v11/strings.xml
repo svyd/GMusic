@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Νέα λίστα αναπαραγωγής</string>
+    <string name="add_to_playlist_title">Προσθήκη σε νέα λίστα αναπαραγωγής</string>
+    <string name="ringtone_menu">Χρήση ως ήχου κλήσης</string>
+    <string name="emptyplaylist">Αγγίξτε για αναπαραγωγή</string>
+    <string name="no_music_heading">Η μουσική βιβλιοθήκη σας είναι κενή</string>
+    <string name="no_music_setup_uploader_body">Προσθέστε την προσωπική συλλογή σας στην έκδοση beta της εφαρμογής Google Music και θα έχετε άμεση πρόσβαση από κάθε συνδεδεμένο υπολογιστή ή συσκευή Android.</string>
+    <string name="no_music_setup_usb_body">Συνδέστε τη συσκευή στον υπολογιστή σας με ένα καλώδιο USB για να αντιγράψετε αρχεία μουσικής στη συσκευή σας. Αν έχετε Macintosh, κάντε πρώτα λήψη της δωρεάν εφαρμογής Android File Transfer στον υπολογιστή σας.</string>
+    <string name="stream_error_only_on_wifi">Θα πρέπει να είστε συνδεδεμένοι σε κάποιο δίκτυο Wi-Fi προκειμένου να κάνετε μετάδοση ροής μουσικής</string>
+    <string name="stream_error_no_connection">Δεν μπορείτε να κάνετε μετάδοση ροής μουσικής επειδή δεν έχετε συνδεθεί σε κάποιο δίκτυο δεδομένων.</string>
+</resources>

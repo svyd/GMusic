@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Uus esitusloend</string>
+    <string name="add_to_playlist_title">Uue esitusloendi lisamine</string>
+    <string name="ringtone_menu">Helinana kasutamine</string>
+    <string name="emptyplaylist">Puuduta esitamiseks</string>
+    <string name="no_music_heading">Teie muusikateek on tühi</string>
+    <string name="no_music_setup_uploader_body">Lisage oma isiklik kogu Musicu beetaversiooni, mis annab viivitamatu juurdepääsu kõigist ühendatud arvutitest või Android-seadmetest.</string>
+    <string name="no_music_setup_usb_body">Muusikafailide seadmesse kopeerimiseks ühendage seade arvutiga USB-kaabli abil. Kui teil on Macintosh, laadige esmalt arvutisse Androidi tasuta failiedastuse rakendus.</string>
+    <string name="stream_error_only_on_wifi">Muusika voogesituseks peate olema ühendatud WiFi-võrku</string>
+    <string name="stream_error_no_connection">Te ei saa muusikat voogesitada, sest te ei ole ühendatud andmesidevõrku.</string>
+</resources>

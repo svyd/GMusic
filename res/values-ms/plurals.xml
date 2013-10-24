@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d LAGU</item>
+        <item quantity="one">1 LAGU</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d lagu</item>
+        <item quantity="one">1 lagu</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUM</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d lagu</item>
+        <item quantity="one">1 lagu</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d lagu ditambahkan pada %2$s.</item>
+        <item quantity="one">1 lagu ditambahkan pada %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d lagu ditambahkan pada perpustakaan.</item>
+        <item quantity="one">1 lagu ditambahkan pada perpustakaan.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">%1$d lagu shj ditambah. Baris gilir maks: %2$d lagu.</item>
+        <item quantity="one">1 lagu shj ditambah. Baris gilir maks ialah %2$d lagu.</item>
+    </plurals>
+</resources>

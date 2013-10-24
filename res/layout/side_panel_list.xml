@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout 
+	android:layout_gravity="left" 
+	android:id="@id/side_panel_frame" 
+	android:paddingTop="?actionBarSize" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+  	xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    	<ListView 
+    		android:id="@id/side_panel_list_view" 
+    		android:background="@color/app_background_light" 
+    		android:layout_width="fill_parent" 
+    		android:layout_height="fill_parent" 
+    		android:listSelector="@drawable/home_drawer_list_selector" 
+    		android:divider="@color/play_translucent_separator_line" 
+    		android:dividerHeight="1.0px" />
+</FrameLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d laulu</item>
+        <item quantity="one">1 LAUL</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d laulu</item>
+        <item quantity="one">1 laul</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d albumit</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d albumit</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d laulu</item>
+        <item quantity="one">1 laul</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d albumit</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d laulu on lisatud esitusloendisse %2$s.</item>
+        <item quantity="one">1 laul on lisatud esitusloendisse %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d laulu lisati kogusse.</item>
+        <item quantity="one">1 laul lisati kogusse.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Lisatud on %1$d lugu. Järjekorras võib olla kuni %2$d lugu.</item>
+        <item quantity="one">Lisatud on 1 lugu. Järjekorras võib olla kuni %2$d lugu.</item>
+    </plurals>
+</resources>

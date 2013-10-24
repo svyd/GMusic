@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Naujas grojaraštis</string>
+    <string name="add_to_playlist_title">Pridėti prie naujo grojaraščio</string>
+    <string name="ringtone_menu">Naudoti kaip skambėjimo toną</string>
+    <string name="emptyplaylist">Palieskite, kad paleistumėte</string>
+    <string name="no_music_heading">Jūsų muzikos biblioteka tuščia</string>
+    <string name="no_music_setup_uploader_body">Pridėkite asmeninę muzikos kolekciją prie Muzikos beta versijos ir greitai ją pasiekite bet kuriame kompiuteryje ar „Android“ įrenginyje.</string>
+    <string name="no_music_setup_usb_body">Jei norite kopijuoti muziką į įrenginį, prijunkite jį prie kompiuterio, naudodami USB laidą. Jei naudojate „Macintosh“, iš pradžių atsisiųskite į savo kompiuterį nemokamą programą „Android File Transfer“.</string>
+</resources>

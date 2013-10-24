@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Новий список відтворення</string>
+    <string name="add_to_playlist_title">Додати до нового списку відтворення</string>
+    <string name="ringtone_menu">Використати як мелодію</string>
+    <string name="emptyplaylist">Торкніться, щоб відтворити</string>
+    <string name="no_music_heading">Ваша музична бібліотека порожня</string>
+    <string name="no_music_setup_uploader_body">Додайте свою особисту колекцію до бета-версії служби Музика та отримуйте до неї миттєвий доступ на будь-якому під’єднаному комп’ютері чи пристрої Android.</string>
+    <string name="no_music_setup_usb_body">З’єднайте свій пристрій із комп’ютером за допомогою USB-кабелю та скопіюйте музичні файли у свій пристрій. Якщо у вас ПК Macintosh, спершу завантажте в нього безкоштовну програму Android File Transfer.</string>
+    <string name="stream_error_only_on_wifi">Для відтворення музики потрібне з’єднання з мережею Wi-Fi</string>
+    <string name="stream_error_no_connection">Неможливо відтворити музику, оскільки ви не з’єднані з мережею передавання даних.</string>
+</resources>

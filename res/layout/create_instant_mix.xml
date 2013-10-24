@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/container" android:paddingLeft="@dimen/radio_creation_dialog_half_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_gravity="center" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_margin="@dimen/radio_creation_dialog_padding">
+            <ImageView android:id="@id/fallback" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <VideoView android:id="@id/dice_video" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="left|center" android:layout_gravity="left|center" android:id="@id/text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_margin="@dimen/radio_creation_dialog_padding" android:layout_weight="1.0" />
+    </LinearLayout>
+    <Button android:textAppearance="?android:textAppearanceMedium" android:id="@id/ok" android:background="@drawable/orange_highlight" android:padding="@dimen/radio_creation_dialog_half_padding" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/create_instant_mix_btn_ok" android:layout_below="@id/container" />
+    <View android:id="@id/divider" android:background="@color/divider_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/container" />
+</RelativeLayout>

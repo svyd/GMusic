@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Nuwe snitlys</string>
+    <string name="add_to_playlist_title">Voeg by nuwe snitlys</string>
+    <string name="ringtone_menu">"Gebruik as 'n luitoon"</string>
+    <string name="emptyplaylist">Raak om te speel</string>
+    <string name="no_music_heading">Jou musiekbiblioteek is leeg.</string>
+    <string name="no_music_setup_uploader_body">"Voeg jou persoonlike versameling by Music Beta en kry toegang in 'n kits vanaf enige gekoppelde rekenaar of Android-toestel."</string>
+    <string name="no_music_setup_usb_body">"Koppel jou toestel aan jou rekenaar met 'n USB-kabel om musieklêers na jou toestel te kopieer. As jy 'n Macintosh het, laai eers die gratis Android-lêeroordragprogram af na jou rekenaar."</string>
+    <string name="stream_error_only_on_wifi">"Jy moet aan 'n Wi-Fi-netwerk gekoppel wees om musiek te stroom"</string>
+    <string name="stream_error_no_connection">"Jy kan nie musiek stroom nie, omdat jy nie aan 'n datanetwerk gekoppel is nie."</string>
+</resources>

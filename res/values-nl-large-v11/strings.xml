@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Nieuwe afspeellijst</string>
+    <string name="add_to_playlist_title">Toevoegen aan nieuwe afspeellijst</string>
+    <string name="ringtone_menu">Gebruiken als beltoon</string>
+    <string name="emptyplaylist">Raak een afspeellijst aan om deze af te spelen</string>
+    <string name="no_music_heading">Uw muziekbibliotheek is leeg</string>
+    <string name="no_music_setup_uploader_body">Voeg uw persoonlijke verzameling toe aan Muziek Bèta en open deze rechtstreeks vanaf elke aangesloten computer of Android-apparaat.</string>
+    <string name="no_music_setup_usb_body">Sluit uw apparaat met een USB-kabel aan op de computer en kopieer muziekbestanden naar het apparaat. Als u een Macintosh heeft, downloadt u eerst de gratis applicatie Android File Transfer naar uw computer.</string>
+    <string name="stream_error_only_on_wifi">U moet verbinding hebben met een Wi-Fi-netwerk om muziek te streamen</string>
+    <string name="stream_error_no_connection">U kunt geen muziek streamen omdat u niet met een gegevensnetwerk bent verbonden.</string>
+</resources>

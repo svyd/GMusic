@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <include android:id="@id/left_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" layout="@layout/track_list_left_combo_common" />
+    <include android:id="@id/second_column_icon" android:layout_width="wrap_content" android:layout_height="@dimen/normal_list_item_height" android:layout_alignParentRight="true" layout="@layout/track_list_item_combo_column" />
+    <com.google.android.music.widgets.TouchDelegateView android:id="@id/touch_delegate" android:layout_width="@dimen/combobox_slop_width" android:layout_height="fill_parent" android:layout_toLeftOf="@id/second_column_icon" music:delegate="@id/second_column_icon" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/first_column_icon" android:layout_toRightOf="@id/left_content" android:layout_centerInParent="true" android:layout_centerHorizontal="true" android:layout_alignWithParentIfMissing="true">
+        <com.google.android.music.StatefulShadowTextView android:ellipsize="marquee" android:id="@id/line1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" style="@style/PlayCardTitle" />
+        <com.google.android.music.StatefulShadowTextView android:ellipsize="marquee" android:id="@id/line2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:scrollHorizontally="true" android:singleLine="true" style="@style/PlayCardSubtitle" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/first_column_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_toLeftOf="@id/second_column_icon" android:layout_centerVertical="true">
+        <com.google.android.music.PlayingIndicator android:id="@id/play_indicator" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+</merge>

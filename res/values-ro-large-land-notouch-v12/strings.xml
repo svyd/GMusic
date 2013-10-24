@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Selectaţi un cont pentru Muzică</string>
+    <string name="no_music_upload_body">"Contul dvs. trebuie să fie configurat pentru a primi muzica aici.
+Accesaţi http://music.google.com/ pe propriul PC pentru a vă sincroniza biblioteca muzicală."</string>
+    <string name="no_music_usb_copy_body">Redaţi muzică pe televizorul dvs. utilizând un cablu USB.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d שירים</item>
+        <item quantity="one">שיר אחד</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d שירים</item>
+        <item quantity="one">שיר אחד</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d אלבומים</item>
+        <item quantity="one">אלבום אחד</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d אלבומים</item>
+        <item quantity="one">אלבום אחד</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d שירים</item>
+        <item quantity="one">שיר אחד</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d אלבומים</item>
+        <item quantity="one">אלבום אחד</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">נוספו %1$d שירים אל %2$s.</item>
+        <item quantity="one">נוסף שיר אחד אל %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">נוספו %d שירים לספרייה.</item>
+        <item quantity="one">נוסף שיר אחד לספרייה.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">נוספו רק %1$d שירים. מספר השירים המרבי שניתן להוסיף לתור הוא %2$d.</item>
+        <item quantity="one">נוסף רק שיר אחד. מספר השירים המרבי שניתן להוסיף לתור הוא %2$d.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TrackListHeaderTitle" parent="@style/PrimaryTitle">
+        <item name="android:textSize">36.0sp</item>
+    </style>
+    <style name="TrackListHeaderSubtitle" parent="@style/SecondaryTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:fontFamily">@null</item>
+    </style>
+    <style name="TrackListHeaderTertiaryTitle" parent="@style/TertiaryTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:fontFamily">@null</item>
+    </style>
+    <style name="PlaybackControl.Previous.Light" parent="@style/PlaybackControl.Previous">
+        <item name="android:src">@drawable/ic_rew_dark_tablet</item>
+        <item name="android:contentDescription">@string/accessibility_prev</item>
+    </style>
+    <style name="PlaybackControl.Next.Light" parent="@style/PlaybackControl.Next">
+        <item name="android:src">@drawable/ic_fwd_dark_tablet</item>
+        <item name="android:contentDescription">@string/accessibility_next</item>
+    </style>
+    <style name="PlaybackControl.Play.Light" parent="@style/PlaybackControl.Play">
+        <item name="android:contentDescription">@string/accessibility_pause</item>
+        <item name="pauseImage">@drawable/ic_pause_dark_tablet</item>
+        <item name="playImage">@drawable/ic_play_dark_tablet</item>
+        <item name="stopImage">@drawable/ic_stop_dark_tablet</item>
+    </style>
+</resources>

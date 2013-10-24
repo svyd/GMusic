@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/app_background_light" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <com.google.android.music.ui.NowPlayingArtViewPager android:id="@id/art_pager" android:background="@color/nowplaying_art_bg" android:focusable="false" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:textColor="@color/current_text" android:id="@id/currenttime" android:layout_above="@*android:id/progress" android:layout_alignParentLeft="true" style="@style/NowPlayingTime" />
+    <TextView android:textColor="@color/current_text" android:gravity="center" android:id="@id/totaltime" android:layout_above="@*android:id/progress" android:layout_alignParentRight="true" style="@style/NowPlayingTime" />
+    <ImageView android:layout_width="fill_parent" android:layout_height="@dimen/nowplaying_screen_shadow_height" android:src="@drawable/bottom_shadow" android:layout_above="@id/play_controls" />
+    <include layout="@layout/nowplaying_screen_queue" />
+    <com.google.android.music.ui.NowPlayingTabletHeaderView android:id="@id/tablet_header" android:background="@color/app_background_light" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="@dimen/nowplaying_screen_info_block_height" />
+    <RelativeLayout android:id="@id/top_wrapper_right" android:layout_width="wrap_content" android:layout_height="@dimen/nowplaying_screen_info_block_height" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+        <android.support.v7.app.MediaRouteButton android:id="@id/media_route_picker" android:focusable="true" android:layout_width="@dimen/nowplaying_screen_info_block_width" android:layout_height="@dimen/nowplaying_screen_info_block_height" />
+        <ImageButton android:id="@id/queue_switcher" android:focusable="true" android:nextFocusLeft="@id/header_metadata" android:layout_width="@dimen/nowplaying_screen_info_block_width" android:layout_height="@dimen/nowplaying_screen_info_block_height" android:src="@drawable/ic_queue_dark" android:layout_toRightOf="@id/media_route_picker" />
+        <ImageButton android:id="@id/overflow" android:focusable="true" android:layout_width="@dimen/nowplaying_screen_info_block_width" android:layout_height="@dimen/nowplaying_screen_info_block_height" android:src="@drawable/ic_menu_moreoverflow_normal_holo_light" android:layout_toRightOf="@id/queue_switcher" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_gravity="center" android:id="@id/play_controls" android:background="@color/app_background_light_transparent" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/nowplaying_lower_bar_height" android:layout_alignParentBottom="true">
+        <include layout="@layout/play_controls" />
+    </RelativeLayout>
+    <com.google.android.music.SizableTrackSeekBar android:id="@*android:id/progress" android:background="@null" android:padding="0.0dip" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/nowplaying_screen_progress_left_right_margin" android:layout_marginRight="@dimen/nowplaying_screen_progress_left_right_margin" android:layout_marginBottom="@dimen/nowplaying_screen_progress_bottom_margin" android:progressDrawable="@drawable/progress_horizontal" android:thumb="@drawable/seek_thumb" android:layout_above="@id/play_controls" music:trackHeight="4.0dip" />
+    <View android:background="@color/divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_alignBottom="@id/top_wrapper_right" />
+    <View android:id="@id/lightsUpInterceptor" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/top_wrapper_right" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

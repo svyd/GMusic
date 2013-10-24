@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <ImageView android:id="@id/empty_icon" android:background="@drawable/ic_empty_state" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="@dimen/empty_screen_text_size" android:textColor="@color/empty_screen_text_color" android:gravity="center" android:id="@id/empty" android:paddingLeft="@dimen/default_padding_large" android:paddingRight="@dimen/default_padding_large" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:maxLines="2" android:layout_below="@id/empty_icon" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="@dimen/empty_screen_text_size" android:textColor="@color/empty_screen_learn_more_color" android:id="@id/learn_more" android:background="@drawable/orange_highlight" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/empty_screen_learn_more_button" android:layout_below="@id/empty" android:layout_centerHorizontal="true" />
+        <View android:id="@id/padding_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="80.0dip" android:layout_below="@id/learn_more" />
+    </RelativeLayout>
+</RelativeLayout>

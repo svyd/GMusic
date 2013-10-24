@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">选择用于 Google 音乐的帐户</string>
+    <string name="no_music_upload_body">"您的帐户需要经过配置才能在此处获取您的音乐。
+请在计算机上访问 http://music.google.com/，以同步您的音乐库。"</string>
+    <string name="no_music_usb_copy_body">通过 USB 线在电视上播放音乐。</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d KAPPALETTA</item>
+        <item quantity="one">1 kappale</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d kappaletta</item>
+        <item quantity="one">1 kappale</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUMIA</item>
+        <item quantity="one">1 albumi</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d albumia</item>
+        <item quantity="one">1 albumi</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d kappaletta</item>
+        <item quantity="one">1 kappale</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d albumia</item>
+        <item quantity="one">1 albumi</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d kappaletta lisätty soittolistaan %2$s.</item>
+        <item quantity="one">1 kappale lisätty soittolistaan %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d kappaletta lisättiin kirjastoon.</item>
+        <item quantity="one">1 kappale lisättiin kirjastoon.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">%1$d kappal. lisätty. Jonossa oltava enintään %2$d kappal.</item>
+        <item quantity="one">1 kappale lisätty. Jonossa oltava enint. %2$d kappal.</item>
+    </plurals>
+</resources>

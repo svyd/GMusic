@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Válasszon ki egy fiókot a Google Zenékhez</string>
+    <string name="no_music_upload_body">"A fiókot konfigurálni kell ahhoz, hogy itt hozzáférhessen a zenéjéhez.
+Kérjük, látogasson el a http://music.google.com/ oldalra számítógépén a zenekönyvtár szinkronizálásához."</string>
+    <string name="no_music_usb_copy_body">Játsszon le zenét tv-jén USB-kábel segítségével.</string>
+</resources>

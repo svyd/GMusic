@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/bg_signup" android:scaleType="centerCrop" />
+    <LinearLayout android:orientation="vertical" android:background="@color/signup_content_background" android:layout_width="@dimen/sign_up_content_box_width" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <TextView android:textAppearance="@style/SignUpTitle" android:id="@id/heading_text" android:padding="@dimen/sign_up_padding_medium" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/tutorial_add_music_heading" />
+        <ListView android:id="@id/add_music_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@*android:color/transparent" android:cacheColorHint="@*android:color/transparent" android:divider="@null" />
+        <Button android:id="@id/done_button" android:layout_width="fill_parent" android:layout_height="@dimen/sign_up_button_height" android:layout_margin="@dimen/sign_up_padding_medium" android:text="@string/tutorial_done" style="@style/TutorialButtonOrange" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:background="@drawable/ab_transparent_dark_holo" android:layout_width="fill_parent" android:layout_height="@dimen/top_bar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.music.widgets.ActionBarItem android:id="@id/goback" android:paddingRight="8.0dip" android:focusable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:contentDescription="@string/accessibility_back">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/home_back" android:paddingLeft="13.0dip" android:layout_width="@dimen/home_plus_back_width" android:layout_height="@dimen/home_icon_size" android:src="@drawable/home_icon" android:contentDescription="@string/accessibility_back" />
+        <ImageView android:layout_gravity="left|center" android:padding="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_ab_back_holo_dark" android:contentDescription="@string/accessibility_back" />
+    </com.google.android.music.widgets.ActionBarItem>
+    <com.google.android.music.widgets.ActionBarItem android:gravity="center_vertical" android:id="@id/home_icon" android:paddingRight="8.0dip" android:focusable="true" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="11.0dip" android:contentDescription="@string/accessibility_home">
+        <ImageView android:id="@id/home_icon" android:layout_width="@dimen/home_icon_size" android:layout_height="@dimen/home_icon_size" android:src="@drawable/home_icon" />
+    </com.google.android.music.widgets.ActionBarItem>
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/title" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="100.0dip" android:text="@string/ringtone_title" android:singleLine="true" style="@style/TextShadow" />
+    <View android:id="@id/actionbar_spacer" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <include layout="@layout/titlebar_divider" />
+    <com.google.android.music.widgets.ActionBarItem android:id="@id/done_button" android:paddingRight="5.0dip" android:focusable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:contentDescription="@string/accessibility_back">
+        <ImageView android:layout_gravity="center_vertical" android:paddingLeft="5.0dip" android:paddingRight="45.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_cab_done_holo_dark" />
+        <TextView android:textSize="12.0sp" android:textStyle="bold" android:layout_gravity="center_vertical" android:paddingLeft="40.0dip" android:paddingRight="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ringtone_done" android:singleLine="true" />
+    </com.google.android.music.widgets.ActionBarItem>
+</LinearLayout>

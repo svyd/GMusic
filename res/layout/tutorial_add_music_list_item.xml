@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/sign_up_padding_medium" android:paddingRight="@dimen/sign_up_padding_medium" android:paddingBottom="@dimen/sign_up_padding_medium" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/add_music_list_icon" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginRight="@dimen/sign_up_padding_small" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <TextView android:textSize="@dimen/sign_up_text_size_middle" android:textColor="@color/signup_body_text" android:gravity="center_vertical" android:id="@id/add_music_list_text_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/add_music_list_icon" />
+    <TextView android:textSize="@dimen/sign_up_text_size_small" android:textColor="#fff4842d" android:gravity="center_vertical" android:id="@id/add_music_list_text_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/add_music_list_icon" android:layout_below="@id/add_music_list_text_1" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.music.ui.cardlib.PlayCardClusterView android:id="@id/play_card_cluster" android:background="@color/app_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/play_card_cluster_header" />
+    <com.google.android.music.ui.cardlib.PlayCardClusterViewContent android:id="@id/cluster_content" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+</com.google.android.music.ui.cardlib.PlayCardClusterView>

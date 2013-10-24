@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Jauns atskaņošanas saraksts</string>
+    <string name="add_to_playlist_title">Pievienot jaunam atskaņošanas sarakstam</string>
+    <string name="ringtone_menu">Izmantot kā zvana signālu</string>
+    <string name="emptyplaylist">Pieskarieties, lai atskaņotu</string>
+    <string name="no_music_heading">Jūsu mūzikas bibliotēka ir tukša</string>
+    <string name="no_music_setup_uploader_body">Pievienojiet savu personīgo mūzikas kolekciju pakalpojuma Music beta versijai un piekļūstiet tai acumirklī no jebkura datora vai Android ierīces, ar kuru ir izveidots savienojums.</string>
+    <string name="no_music_setup_usb_body">Pievienojiet ierīci datoram, izmantojot USB vadu, lai kopētu mūzikas failus ierīcē. Ja jums ir Macintosh dators, vispirms lejupielādējiet datorā bezmaksas lietotni Android File Transfer.</string>
+</resources>

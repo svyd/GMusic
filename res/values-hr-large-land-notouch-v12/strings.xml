@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Odaberite račun za Glazbu</string>
+    <string name="no_music_upload_body">"Vaš račun mora biti konfiguriran da biste ovdje mogli staviti svoju glazbu. 
+Posjetite http://music.google.com/ na računalu da biste sinkronizirali svoju glazbenu biblioteku."</string>
+    <string name="no_music_usb_copy_body">Reproducirajte glazbu na svom TV-u pomoću USB kabela.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Selecciona un compte per a Music</string>
+    <string name="no_music_upload_body">"Cal que configuris el teu compte per obtenir la teva música aquí.
+Vés a http://music.google.com/ al teu equip per sincronitzar la teva biblioteca de música."</string>
+    <string name="no_music_usb_copy_body">Reprodueix música al teu televisor amb un cable USB.</string>
+</resources>

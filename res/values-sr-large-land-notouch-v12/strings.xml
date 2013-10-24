@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Изаберите налог за Музику</string>
+    <string name="no_music_upload_body">"Налог мора да буде конфигурисан за преузимање музике овде.
+Идите на http://music.google.com/ на рачунару да бисте синхронизовали фонотеку."</string>
+    <string name="no_music_usb_copy_body">Пуштајте музику на TV-у помоћу USB кабла.</string>
+</resources>

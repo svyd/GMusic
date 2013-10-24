@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/secondary_text_color" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/no_downloads_text" android:paddingLeft="16.0dip" android:paddingTop="30.0dip" android:paddingRight="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/show_no_downloads_title" />
+    <com.google.android.music.MusicListView android:scrollbarAlwaysDrawVerticalTrack="true" android:id="@*android:id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawSelectorOnTop="false" android:layout_weight="0.0"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+</LinearLayout>

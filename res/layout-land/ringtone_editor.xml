@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/topbar" layout="@layout/ringtone_topbar" />
+    <include android:id="@id/wave" layout="@layout/ringtone_wave" />
+    <TextView android:gravity="center" android:id="@id/sound_info" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/AudioFileInfoOverlayText" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/track_info" layout="@layout/ringtone_track_info" />
+        <LinearLayout android:gravity="right" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include android:id="@id/playbar" layout="@layout/ringtone_playbar" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

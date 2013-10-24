@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Нов плейлист</string>
+    <string name="add_to_playlist_title">Добавяне към новия плейлист</string>
+    <string name="ringtone_menu">Използване като мелодия</string>
+    <string name="emptyplaylist">Докоснете, за да пуснете</string>
+    <string name="no_music_heading">Музикалната ви библиотека е празна</string>
+    <string name="no_music_setup_uploader_body">Добавете личната си колекция в Музика бета и осъществявайте незабавно достъп до нея от всеки свързан компютър или устройство с Android.</string>
+    <string name="no_music_setup_usb_body">Свържете своето устройство и компютър с USB кабел и копирайте музикални файлове на устройството си. Ако имате Macintosh, първо изтеглете безплатното приложение File Transfer за Android на компютъра си.</string>
+    <string name="stream_error_only_on_wifi">Трябва да сте свързани с Wi-Fi мрежа, за да предавате поточно музика</string>
+    <string name="stream_error_no_connection">Не можете да предавате поточно музика, защото не сте свързани с мрежа за данни.</string>
+</resources>

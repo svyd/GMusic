@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 тжд</item>
+        <item>2 тжн</item>
+        <item>3 тжн</item>
+        <item>4 тжн</item>
+        <item>5 тжн</item>
+        <item>6 тжн</item>
+        <item>7 тжн</item>
+        <item>8 тжн</item>
+        <item>9 тжн</item>
+        <item>10 тжн</item>
+        <item>11 тжн</item>
+        <item>12 тжн</item>
+    </string-array>
+</resources>

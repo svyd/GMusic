@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/bg_panel_1_music_widget_pressed_holo" />
+    <item android:state_focused="true" android:state_window_focused="true" android:drawable="@drawable/bg_panel_1_music_widget_focused_holo" />
+    <item android:drawable="@drawable/bg_panel_1_music_widget_holo" />
+</selector>

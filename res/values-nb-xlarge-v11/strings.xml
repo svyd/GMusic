@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Ny spilleliste</string>
+    <string name="add_to_playlist_title">Legg til i ny spilleliste</string>
+    <string name="ringtone_menu">Bruk som ringetone</string>
+    <string name="emptyplaylist">Trykk for å spille av</string>
+    <string name="no_music_heading">Musikkbiblioteket er tomt</string>
+    <string name="no_music_setup_uploader_body">Legg til din personlige samling i betaversjonen av Musikk, og få tilgang til den umiddelbart fra alle Android-enheter og datamaskiner med nettilgang.</string>
+    <string name="no_music_setup_usb_body">Koble enheten din til datamaskinen med en USB-kabel for å kopiere musikkfiler til enheten. Hvis du har Macintosh, må du først laste ned gratisappen Android File Transfer til datamaskinen.</string>
+</resources>

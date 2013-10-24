@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Выберыце ўліковы запіс у Music</string>
+    <string name="no_music_upload_body">"Каб спампаваць музыку, патрэбны наладжаны ўлiковы запiс. 
+ Перайдзіце на http://music.google.com/ са свайго ПК, каб сінхранізаваць сваю музычную бібліятэку."</string>
+    <string name="no_music_usb_copy_body">Прайгравайце музыку на экране тэлевізара з дапамогай кабеля USB.</string>
+</resources>

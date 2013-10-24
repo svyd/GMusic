@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d NUMMERS</item>
+        <item quantity="one">1 NUMMER</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d nummers</item>
+        <item quantity="one">1 nummer</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUMS</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d nummers</item>
+        <item quantity="one">1 nummer</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d nummers toegevoegd aan %2$s.</item>
+        <item quantity="one">1 nummer toegevoegd aan %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d nummers toegevoegd aan bibliotheek.</item>
+        <item quantity="one">1 nummer toegevoegd aan bibliotheek.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">%1$d nummers toegevoegd. Max. wachtrij is %2$d nummers.</item>
+        <item quantity="one">1 nummer toegevoegd. Max. wachtrij is %2$d nummers.</item>
+    </plurals>
+</resources>

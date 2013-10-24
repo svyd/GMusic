@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.music.TabbedNowPlayingControlBar android:orientation="vertical" android:background="@color/tabbed_now_playing_controls_bg_color" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:music="http://schemas.android.com/apk/res/com.google.android.music">
+    <View android:id="@id/blue_spacer" android:background="@drawable/ab_bottom_transparent_dark_holo" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/nowplaying_bar_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:baselineAligned="false" android:layout_weight="1.0">
+            <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <com.google.android.music.RepeatingImageButton android:layout_gravity="center" android:id="@id/prev" android:padding="@dimen/tabbed_now_playing_play_control_padding" android:layout_width="@dimen/tabbed_nowplaying_control_bar_height" android:layout_height="@dimen/tabbed_nowplaying_control_bar_height" style="@style/PlaybackControl.Previous" />
+            <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <com.google.android.music.PlayPauseButton android:layout_gravity="center" android:id="@id/pause" android:padding="@dimen/tabbed_now_playing_play_control_padding" android:layout_width="@dimen/tabbed_nowplaying_control_bar_height" android:layout_height="@dimen/tabbed_nowplaying_control_bar_height" style="@style/PlaybackControl.Play" />
+            <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <com.google.android.music.RepeatingImageButton android:layout_gravity="center" android:id="@id/next" android:padding="@dimen/tabbed_now_playing_play_control_padding" android:layout_width="@dimen/tabbed_nowplaying_control_bar_height" android:layout_height="@dimen/tabbed_nowplaying_control_bar_height" style="@style/PlaybackControl.Next" />
+            <View android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        </LinearLayout>
+        <com.google.android.music.SizableTrackSeekBar android:layout_gravity="center_vertical" android:id="@*android:id/progress" android:background="@null" android:padding="0.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:progressDrawable="@drawable/progress_horizontal" android:thumb="@drawable/seek_thumb" android:layout_weight="2.0" music:trackHeight="2.0dip" />
+        <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:layout_gravity="center_vertical" android:id="@id/time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginRight="12.0dip" />
+            <com.google.android.music.RatingSelector android:layout_gravity="center_vertical" android:id="@id/rating_views" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="12.0dip" android:layout_marginRight="12.0dip">
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/rating_thumbs" />
+                <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/rating_stars" />
+            </com.google.android.music.RatingSelector>
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.music.TabbedNowPlayingControlBar>

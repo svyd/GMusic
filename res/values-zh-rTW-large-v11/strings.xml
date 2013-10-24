@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">新增播放清單</string>
+    <string name="add_to_playlist_title">加入新播放清單</string>
+    <string name="ringtone_menu">設為鈴聲</string>
+    <string name="emptyplaylist">輕觸即可播放音樂</string>
+    <string name="no_music_heading">您的音樂庫中沒有任何內容</string>
+    <string name="no_music_setup_uploader_body">請將您的個人收藏加入音樂測試版，如此就能從任何連線的電腦或 Android 裝置立即聆聽音樂。</string>
+    <string name="no_music_setup_usb_body">透過 USB 傳輸線連接您的裝置與電腦，即可將音樂檔案複製到您的裝置中。如果您使用 Macintosh，請先將免費的 Android File Transfer 應用程式下載到您的電腦。</string>
+    <string name="stream_error_only_on_wifi">您必須連線至 Wi-Fi 網路，才能串流播放音樂</string>
+    <string name="stream_error_no_connection">您尚未連線至數據網路，因此無法串流播放音樂。</string>
+</resources>

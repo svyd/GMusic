@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Új lejátszási lista</string>
+    <string name="add_to_playlist_title">Hozzáadás új lejátszási listához</string>
+    <string name="ringtone_menu">Felhasználás csengőhangként</string>
+    <string name="emptyplaylist">Érintse meg a képernyőt a lejátszáshoz</string>
+    <string name="no_music_heading">Zenekönyvtára üres</string>
+    <string name="no_music_setup_uploader_body">Adja hozzá zenegyűjteményét a Zenék Bétához, és érje el azonnal bármely csatlakoztatott számítógépről vagy Android-eszközről.</string>
+    <string name="no_music_setup_usb_body">Csatlakoztassa eszközét és számítógépét USB-kábel használatával, hogy zenefájlokat másolhasson eszközére. Ha Macintosh-sal rendelkezik, először töltse le az ingyenes Android File Transfer alkalmazást számítógépére.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/stream_settings" android:key="stream_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+    <PreferenceCategory android:title="@string/settings_catergory_general_caps" android:key="@string/settings_catergory_general_key">
+        <PreferenceScreen android:title="@string/account_settings_title" android:key="@string/account_settings_key" android:summary="@string/no_account_selected_summary" />
+        <PreferenceScreen android:key="@string/account_type_settings_key" />
+        <PreferenceScreen android:key="@string/manage_nautilus_settings_key" />
+        <PreferenceScreen android:title="@string/equalizer_settings_title" android:key="@string/equalizer_settings_key" android:summary="@string/equalizer_settings_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/content_filter_title_radio" android:key="@string/content_filter_key" android:disableDependentsState="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_catergory_download_caps" android:key="@string/settings_catergory_download_key">
+        <CheckBoxPreference android:persistent="false" android:title="@string/cache_streamed_title" android:key="@string/cache_streamed_key" android:summary="@string/cache_streamed_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/autocache_title" android:key="@string/autocache_key" android:summary="@string/autocache_summary" android:dependency="@string/cache_streamed_key" />
+        <PreferenceScreen android:title="@string/clear_cache_settings_title" android:key="@string/clear_cache_settings_key" android:summary="@string/clear_cache_settings_summary" />
+        <CheckBoxPreference android:persistent="false" android:title="@string/offlinedl_only_on_wifi_title" android:key="@string/offlinedl_only_on_wifi_key" android:summary="@string/offlinedl_only_on_wifi_summary" android:disableDependentsState="true" />
+        <PreferenceScreen android:title="@string/download_queue_title" android:key="@string/download_queue_key" android:summary="@string/download_queue_summary" />
+        <PreferenceScreen android:title="@string/download_location_title" android:key="@string/download_location_key" android:summary="@string/download_location_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_catergory_streaming_caps" android:key="@string/settings_catergory_streaming_key">
+        <CheckBoxPreference android:persistent="false" android:title="@string/stream_only_on_wifi_title" android:key="@string/stream_only_on_wifi_key" android:summary="@string/stream_only_on_wifi_summary" android:disableDependentsState="true" />
+        <PreferenceScreen android:persistent="false" android:title="@string/stream_quality_title" android:key="@string/stream_quality_key" android:summary="@string/stream_quality_normal" android:dependency="@string/stream_only_on_wifi_key" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_catergory_developer_caps" android:key="@string/settings_catergory_developer_key">
+        <CheckBoxPreference android:persistent="false" android:title="@string/debug_logs_title" android:key="@string/debug_logs_key" android:summary="@string/debug_logs_summary" android:disableDependentsState="true" />
+        <PreferenceScreen android:title="@string/license_title" android:key="@string/license_key">
+            <intent android:action="com.google.android.music.LICENSES" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/music_version_title" android:key="music_version_key" android:summary="@string/music_version_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

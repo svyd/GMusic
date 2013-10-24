@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Ny spilleliste</string>
+    <string name="add_to_playlist_title">Legg til i ny spilleliste</string>
+    <string name="ringtone_menu">Bruk som ringetone</string>
+    <string name="emptyplaylist">Berør for å spille av</string>
+    <string name="no_music_heading">Musikkbiblioteket ditt er tomt</string>
+    <string name="no_music_setup_uploader_body">Legg til den personlige samlingen din i betaversjonen av Musikk, og få tilgang til den umiddelbart fra alle Android-enheter og datamaskiner med nettilgang.</string>
+    <string name="no_music_setup_usb_body">Koble enheten din til datamaskinen med en USB-kabel for å kopiere musikkfiler til enheten. Hvis du har en Macintosh, må du først laste ned gratisapplikasjonen Android File Transfer til datamaskinen.</string>
+    <string name="stream_error_only_on_wifi">Du må være koblet til et Wi-Fi-nettverk for å direkteavspille musikk</string>
+    <string name="stream_error_no_connection">Du kan ikke direkteavspille musikk fordi du ikke er koblet til et datanettverk.</string>
+</resources>

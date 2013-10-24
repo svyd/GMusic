@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">ለሙዚቃ መለያ ምረጥ</string>
+    <string name="no_music_upload_body">"ሙዚቃህን እዚህ ለማግኘት መለያህ መዋቀር ያስፈልገዋል፡፡ 
+እባክህ ኮምፒውተርህ ላይ ሙዚቃ ቤተመፃሕፍትህን ለማመሳሰል ወደhttp://music.google.com/  ሂድ፡፡"</string>
+    <string name="no_music_usb_copy_body">የUSB ሽቦ በመጠቀም ቴሌቪዥንህ ላይ ሙዚቃ አጫዉት፡፡</string>
+</resources>

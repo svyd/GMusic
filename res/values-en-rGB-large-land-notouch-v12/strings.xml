@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Select an account for Music</string>
+    <string name="no_music_upload_body">"Your account needs to be configured to get your music here.
+Please go to http://music.google.com/ on your PC to sync your music library."</string>
+    <string name="no_music_usb_copy_body">Play music on your TV, using a USB cable.</string>
+</resources>

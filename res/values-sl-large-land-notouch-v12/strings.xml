@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Izberite račun za Google Glasbo</string>
+    <string name="no_music_upload_body">"Če želite glasbo dobiti sem, morate nastaviti račun.
+V računalniku odprite http://music.google.com/, da sinhronizirate svojo glasbeno knjižnico."</string>
+    <string name="no_music_usb_copy_body">Predvajajte glasbo na televiziji prek kabla USB.</string>
+</resources>

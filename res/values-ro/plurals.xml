@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d CÂNTECE</item>
+        <item quantity="one">1 CÂNTEC</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d (de) cântece</item>
+        <item quantity="one">1 cântec</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%1$d ALBUME</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d (de) albume</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d cântece</item>
+        <item quantity="one">1 cântec</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">%1$d albume</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d (de) cântece adăugate la %2$s.</item>
+        <item quantity="one">1 cântec adăugat la %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Au fost adăugate %d (de) cântece la bibliotecă.</item>
+        <item quantity="one">A fost adăugat un cântec la bibliotecă.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">%1$d cântece adăugate. Coada poate avea max. %2$d cântece.</item>
+        <item quantity="one">Un cântec adăugat. Coada poate avea max. %2$d cântece.</item>
+    </plurals>
+</resources>

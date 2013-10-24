@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">新しいプレイリスト</string>
+    <string name="add_to_playlist_title">新しいプレイリストに追加</string>
+    <string name="ringtone_menu">着信音に設定</string>
+    <string name="emptyplaylist">タップして再生</string>
+    <string name="no_music_heading">音楽ライブラリに曲がありません</string>
+    <string name="no_music_setup_uploader_body">個人のコレクションをミュージックベータ版に追加すると、接続したパソコンやAndroid搭載端末からすぐにアクセスできます。</string>
+    <string name="no_music_setup_usb_body">音楽ファイルを端末にコピーするには、USBケーブルで端末とパソコンを接続します。Macを使用する場合は、最初に無料のAndroid File Transferアプリケーションをダウンロードします。</string>
+    <string name="stream_error_only_on_wifi">音楽をストリーミングするにはWi-Fiネットワークに接続する必要があります</string>
+    <string name="stream_error_no_connection">データネットワークに接続していないため、音楽をストリーミングできません。</string>
+</resources>

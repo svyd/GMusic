@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Music के लिए कोई खाता चुनें</string>
+    <string name="no_music_upload_body">"आपका संगीत यहां प्राप्त करने के लिए आपके खाते को कॉन्फ़िगर करना होगा.
+कृपया अपनी संगीत लाइब्रेरी समन्वयित करने के लिए अपने PC पर http://music.google.com/ पर जाएं."</string>
+    <string name="no_music_usb_copy_body">USB केबल का उपयोग करके अपने TV पर संगीत चलाएं.</string>
+</resources>

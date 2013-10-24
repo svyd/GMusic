@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/left_interaction_icon" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.google.android.music.AsyncAlbumArtImageView android:id="@id/icon" android:layout_width="@dimen/normal_list_item_height" android:layout_height="@dimen/normal_list_item_height" android:layout_marginRight="8.0dip" />
+        <ImageView android:layout_gravity="bottom|right|center" android:id="@id/icon_overlay" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.0dip" />
+    </FrameLayout>
+    <com.google.android.music.SafePostProgressBar android:layout_gravity="center" android:id="@id/sync_progress" android:visibility="gone" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" />
+    <com.google.android.music.widgets.QuickContactBadgeComp android:layout_gravity="center" android:id="@id/quickcontact_badge" android:visibility="gone" android:layout_width="@dimen/quickcontact_width" android:layout_height="@dimen/quickcontact_height" android:layout_marginRight="8.0dip" />
+</LinearLayout>

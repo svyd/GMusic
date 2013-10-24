@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">เลือกบัญชีสำหรับเพลง</string>
+    <string name="no_music_upload_body">"บัญชีของคุณจะต้องกำหนดค่าเพื่อรับเพลงที่นี่
+โปรดไปที่ http://music.google.com/ บนคอมพิวเตอร์ของคุณ เพื่อซิงค์ห้องสมุดดนตรี"</string>
+    <string name="no_music_usb_copy_body">เล่นเพลงบนทีวีของคุณโดยใช้สาย USB</string>
+</resources>

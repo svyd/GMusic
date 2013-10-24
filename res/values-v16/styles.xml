@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SideMenuText" parent="@*android:style/TextAppearance.Medium">
+        <item name="android:textSize">21.0sp</item>
+        <item name="android:textColor">@color/play_fg_primary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="PrimaryTitle" parent="@*android:style/TextAppearance.Medium">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="SecondaryTitle" parent="@*android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="TertiaryTitle" parent="@*android:style/TextAppearance.Small">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="PlayLightText">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="PlayCondensedText">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="PlayPlainText">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="PlayGridBoldText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="PlayGridContentPrimary">
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="PlayGridContentSecondary">
+        <item name="android:textStyle">italic</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+</resources>

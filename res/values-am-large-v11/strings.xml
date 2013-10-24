@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">አዲስ ጨዋታዝርዝር</string>
+    <string name="add_to_playlist_title">ወደአዲስ ጨዋታዝርዝር አክል</string>
+    <string name="ringtone_menu">እንደ ስልክ ጥሪ ድምፅ ተጠቀም</string>
+    <string name="emptyplaylist">ለማጫወትንካ</string>
+    <string name="no_music_heading">የሙዚቃ ቤተ ፍርግምዎ ባዶ ነው።</string>
+    <string name="no_music_setup_uploader_body">"የግል ስብስብዎን በቤታ ሙዚቃ ላይ ያክሉ እና  በፍጥነት ከማንኛውም ኮምፒዩተር ላይ ወይም የAndroid መሣሪያ ላይ ይድረሱ።"</string>
+    <string name="no_music_setup_usb_body">መሣሪያዎን ከኮምፒዩተርዎ ጋር በUSB ገመድ የሙዚቃ ፋይሎች ወደ መሣሪያዎ ለመገልበጥ ያገናኙ። Macintosh ካልዎ፣ መጀመሪያ ነፃ የAndroid ፋይል መስደጃ ትግበራ ያውርዱ።</string>
+    <string name="stream_error_only_on_wifi">ሙዚቃ ለመልቀቅ ወደ Wi-Fi አውታረ መረብ መያያዝ አለብዎ።</string>
+    <string name="stream_error_no_connection">ለውሂብ አውታረ መረብ ስላልተያያዙ ሙዚቃ መልቀቅአይችሉም።</string>
+</resources>

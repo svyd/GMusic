@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MusicMenuView">
+        <item name="rowHeight">66.0dip</item>
+        <item name="maxItemsPerRow">6</item>
+        <item name="maxRows">1</item>
+    </style>
+</resources>

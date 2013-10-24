@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Llista de reproducció nova</string>
+    <string name="add_to_playlist_title">Addició a una llista de reproducció nova</string>
+    <string name="ringtone_menu">Utilitza com a to</string>
+    <string name="emptyplaylist">Toca per reproduir</string>
+    <string name="no_music_heading">La teva biblioteca de música és buida</string>
+    <string name="no_music_setup_uploader_body">"Afegeix la teva col·lecció personal a Music Beta i accedeix-hi a l'instant des de qualsevol equip o dispositiu Android connectat."</string>
+    <string name="no_music_setup_usb_body">"Connecta el dispositiu al teu equip amb un cable USB per copiar-hi fitxers de música. Si tens un Macintosh, baixa primer l'aplicació gratuïta Android File Transfer al teu equip."</string>
+    <string name="stream_error_only_on_wifi">Cal que estiguis connectat a una xarxa Wi-Fi per reproduir música</string>
+    <string name="stream_error_no_connection">No pots reproduir música perquè no estàs connectat a cap xarxa de dades.</string>
+</resources>

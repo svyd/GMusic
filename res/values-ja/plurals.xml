@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%1$d曲</item>
+        <item quantity="one">1曲</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">%1$d曲</item>
+        <item quantity="one">1曲</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">アルバム%1$d枚</item>
+        <item quantity="one">1件のアルバム</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">%1$d枚のアルバム</item>
+        <item quantity="one">1枚のアルバム</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">%1$d曲</item>
+        <item quantity="one">1曲</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">アルバム%1$d枚</item>
+        <item quantity="one">アルバム1枚</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%1$d曲が%2$sに追加されました。</item>
+        <item quantity="one">%2$sに1曲追加しました。</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d曲がライブラリに追加されました。</item>
+        <item quantity="one">1曲がライブラリに追加されました。</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">%1$d曲のみ追加されました。%2$d曲まで追加可能です。</item>
+        <item quantity="one">1曲のみ追加されました。%2$d曲まで追加可能です。</item>
+    </plurals>
+</resources>

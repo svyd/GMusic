@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">یک حساب برای Music انتخاب کنید</string>
+    <string name="no_music_upload_body">"حساب شما باید برای دریافت موسیقی در اینجا پیکربندی شود.
+لطفاً به http://music.google.com/ در رایانهٔ خود بروید و کتابخانه موسیقی خود را همگام کنید."</string>
+    <string name="no_music_usb_copy_body">با استفاده از یک کابل USB در تلویزیون خود موسیقی پخش کنید.</string>
+</resources>

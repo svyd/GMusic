@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 sem.</item>
+        <item>2 sem.</item>
+        <item>3 sem.</item>
+        <item>4 sem.</item>
+        <item>5 sem.</item>
+        <item>6 sem.</item>
+        <item>7 sem.</item>
+        <item>8 sem.</item>
+        <item>9 sem.</item>
+        <item>10 sem.</item>
+        <item>11 sem.</item>
+        <item>12 sem.</item>
+    </string-array>
+</resources>

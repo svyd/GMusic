@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Seleziona un account per Music</string>
+    <string name="no_music_upload_body">"Il tuo account deve essere configurato per il caricamento della musica qui.
+Visita il sito all'indirizzo http://music.google.com/ sul PC per sincronizzare la tua raccolta musicale."</string>
+    <string name="no_music_usb_copy_body">Riproduci musica sulla TV utilizzando un cavo USB.</string>
+</resources>

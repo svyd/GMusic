@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" android:ellipsize="marquee" android:id="@*android:id/text1" android:paddingLeft="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-3.0dip" android:singleLine="true" android:layout_alignParentTop="true" />
+    <TextView android:textAppearance="@style/ActionBarSubtitle" android:ellipsize="marquee" android:id="@*android:id/text2" android:paddingLeft="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-3.0dip" android:singleLine="true" android:layout_below="@*android:id/text1" />
+</RelativeLayout>

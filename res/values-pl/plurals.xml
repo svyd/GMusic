@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">UTWORY: %1$d</item>
+        <item quantity="one">1 UTWÓR</item>
+    </plurals>
+    <plurals name="Nsongs_accessibility">
+        <item quantity="other">Utwory: %1$d</item>
+        <item quantity="one">1 utwór</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">ALBUMY: %1$d</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="Nalbums_accessibility">
+        <item quantity="other">Albumy: %1$d</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nsongs_search_result">
+        <item quantity="other">Utwory: %1$d</item>
+        <item quantity="one">1 utwór</item>
+    </plurals>
+    <plurals name="Nalbums_search_result">
+        <item quantity="other">Albumy: %1$d</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">Liczba utworów dodanych do playlisty %1$d: %2$s.</item>
+        <item quantity="one">Dodano 1 utwór do playlisty %2$s.</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Do biblioteki dodano %d utwory(ów).</item>
+        <item quantity="one">Do bilblioteki dodano 1 utwór.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Dodano utwory: %1$d. Maks. liczba utworów w kolejce: %2$d.</item>
+        <item quantity="one">Dodano 1 utwór. Maks. liczba utworów w kolejce: %2$d.</item>
+    </plurals>
+</resources>

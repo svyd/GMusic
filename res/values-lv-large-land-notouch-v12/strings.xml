@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_account_selected_summary">Atlasiet kontu mūzikas atskaņošanai.</string>
+    <string name="no_music_upload_body">"Lai pārceltu savus mūzikas failus uz šejieni, jums ir jākonfigurē konts.
+Lai sinhronizētu mūzikas bibliotēku, datorā dodieties uz vietni http://music.google.com/."</string>
+    <string name="no_music_usb_copy_body">Atskaņojiet mūziku televizorā, izmantojot USB kabeli.</string>
+</resources>

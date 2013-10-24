@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Daftar putar baru</string>
+    <string name="add_to_playlist_title">Tambahkan ke daftar putar baru</string>
+    <string name="ringtone_menu">Gunakan sebagai nada dering</string>
+    <string name="emptyplaylist">Sentuh untuk memutar</string>
+    <string name="no_music_heading">Pustaka musik Anda kosong</string>
+    <string name="no_music_setup_uploader_body">Tambahkan koleksi pribadi ke Musik Beta dan akses koleksi itu seketika dari komputer atau perangkat Android mana pun yang tersambung.</string>
+    <string name="no_music_setup_usb_body">Sambungkan perangkat ke komputer dengan kabel USB untuk menyalin file musik ke perangkat. Jika Anda memakai Macintosh, unduh dulu aplikasi Transfer File Android gratis ke komputer.</string>
+</resources>

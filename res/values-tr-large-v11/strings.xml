@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_playlist_title">Yeni oynatma listesi</string>
+    <string name="add_to_playlist_title">Yeni şarkı listesine ekle</string>
+    <string name="ringtone_menu">Zil sesi olarak kullan</string>
+    <string name="emptyplaylist">Çalmak için dokunun</string>
+    <string name="no_music_heading">Müzik kitaplığınız boş</string>
+    <string name="no_music_setup_uploader_body">"Müzik koleksiyonunuzu Müzik Beta'ya ekleyin ve bağlı herhangi bir bilgisayardan veya Android cihazından koleksiyonunuza anında erişin."</string>
+    <string name="no_music_setup_usb_body">Cihazınıza müzik dosyalarını kopyalamak için cihazınızı USB kablosuyla bilgisayarınıza bağlayın. Macintosh kullanıyorsanız, önce bilgisayarınıza ücretsiz Android File Transfer uygulamasını indirin.</string>
+    <string name="stream_error_only_on_wifi">Müzik akışı için Kablosuz ağa bağlı olmanız gerekir</string>
+    <string name="stream_error_no_connection">Bir veri ağına bağlı olmadığınız için müzik akışını kullanamazsınız.</string>
+</resources>
